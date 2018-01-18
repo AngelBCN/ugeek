@@ -1,0 +1,112 @@
+---
+layout: post
+title: "085. Nextcloud Talk y Script para Instalar Nextcloud"
+date: 2018-01-15 21:00
+author: Angel
+categories: podcast
+image: /img/ugeek.png
+podcast_link: https://gitlab.com/uGeek/podcasts/raw/master/audios/085-nextcloud-talks.m4a
+tags: [podcast, llamadas, videoconferencia, script, nextcloud, app, android]
+comments: true
+---
+#### Publicado por Angel
+
+[https://ugeek.github.io/](https://ugeek.github.io/)
+
+Suscribete al Blog :  [RSS del Blog](http://feeds.feedburner.com/uGeekBlog) |
+
+Suscribete al Podcast :  [RSS](http://feeds.feedburner.com/ugeek) , [ITunes](https://itunes.apple.com/us/podcast/ugeek/id1201421866?mt=2) , [ivoox](https://www.ivoox.com/podcast-ugeek_sq_f1383493_1.html)  
+
+Suscribete a uGeekRadio : [Feed](http://feeds.feedburner.com/uGeekRadio)  
+
+[Reproduce todos los podcast de uGeek con VLC](https://ugeek.github.io/ugeek.m3u) <a href="https://ugeek.github.io/ugeek.m3u"><img style="float: left;" src="https://ugeek.github.io/img/icon/vlc.png" alt="" width="30" height="30" /></a>  
+
+<br>
+
+<!-- ------------------------------------- url del podcast -------------------------------------------  -->
+<audio controls>
+  <source src="https://gitlab.com/uGeek/podcasts/raw/master/audios/085-nextcloud-talks.m4a">
+Your browser does not support the audio element.
+</audio>
+
+<!-- -------------------------------------Imagen -------------------------------------------  -->
+
+![](http://telegra.ph/file/1ff1a2fb46820c02c6a15.png)  
+
+
+
+
+<!-- -------------------------------------Descripción del podcast -------------------------------------------  -->
+
+En este podcast os hablo de Nextcloud Talk y un script para poder instalar Nextcloud completo en tu Raspberry Pi.
+
+- Escribe en tu terminal:
+
+```
+sudo wget https://raw.githubusercontent.com/ugeek/scripts/master/install_nextcloud.sh && sudo bash install_nextcloud.sh
+```  
+
+
+- Apache. Este es el servidor web.
+- MySQL/MariaDB. El gestor de base de datos.
+- PHP/Perl/Python. El lenguaje de programación.
+- Si tu usuario no es Pi, modifícalo en el script
+
+[Web del script de LAMP del atareao.es](https://www.atareao.es/tutorial/raspberry-pi-primeros-pasos/lamp-raspberry-pi/)
+
+<br>
+
+<!-- -------------------------------------Aquí abajo los Comentarios -------------------------------------------  -->
+
+<!-- Begin SpeakPipe code -->
+<script type="text/javascript">
+(function(d){
+var app = d.createElement('script'); app.type = 'text/javascript'; app.async = true;
+var pt = ('https:' == document.location.protocol ? 'https://' : 'http://');
+app.src = pt + 'www.speakpipe.com/loader/u33wn17v7gblat29taobg3x8q901jwfj.js';
+var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(app, s);
+})(document);
+</script>
+<!-- End SpeakPipe code -->
+
+
+
+
+[Canal en Telegram](https://t.me/uGeek)  
+
+[Grupo en Telegram](https://t.me/uGeekPodcast)  
+
+[uGeekPodcast en Twitter](https://twitter.com/ugeekpodcast)  
+
+
+Escucha más Podcast en el Reproductor de la web [►Play](https://ugeek.github.io/podcasts/)  
+
+
+Tags: {% assign sorted_tags = page.tags | sort %} {% for tag in sorted_tags %} , <span class="tag"><a href="/tag#{{ tag }}">{{ tag }}</a></span> {% endfor %},
+
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-angelbcn-github-io-ugeek.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %}
+
+<script id="dsq-count-scr" src="//https-angelbcn-github-io-ugeek.disqus.com/count.js" async></script>
