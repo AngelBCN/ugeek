@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "086. Recalbox. Consola de Juegos Retro+Kodi"
-date: 2018-01-18 5:30
+date: 2018-01-18 5:500
 author: Angel
 categories: podcast
 image: /img/ugeek.png
@@ -25,7 +25,7 @@ Suscribete a uGeekRadio : [Feed](http://feeds.feedburner.com/uGeekRadio)
 
 <!-- ------------------------------------- url del podcast -------------------------------------------  -->
 <audio controls>
-  <source src=""https://gitlab.com/uGeek/podcasts/raw/master/audios/086-recalbox.m4a>
+  <source src="https://gitlab.com/uGeek/podcasts/raw/master/audios/086-recalbox.m4a">
 Your browser does not support the audio element.
 </audio>
 
