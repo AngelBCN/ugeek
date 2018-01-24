@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Radiogeek - #Radiogeek - Resumen diario día 23 de enero 2018 #Podcast
+http://ar.ivoox.com/es/radiogeek-resumen-diario-dia-23-enero_mf_23321703_feed_1.mp3
+#EXTINF:-1,Podcast de Eduardo Collado - Podcast #100: Communities de BGP
+https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/01/podcast-100-communities.mp3
+#EXTINF:-1,reflex podcast - #28.1 Adiós adobe Lightroom (audio bueno)
+http://www.ivoox.com/28-1-adios-adobe-lightroom-audio-bueno_mf_23312484_feed_1.mp3
 #EXTINF:-1,uGeek - Tecnología, Android, Linux, Servidores y mucho más... - 087. Arrancar Raspberry desde USB
 https://gitlab.com/uGeek/podcasts/raw/master/audios/087-arrancar-raspberry-por-usb.mp3
 #EXTINF:-1,Web Reactiva - WR 19: Microframeworks, microservicios y la corrala de vecinos
