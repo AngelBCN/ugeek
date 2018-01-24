@@ -1,6 +1,12 @@
 #EXTM3U
+#EXTINF:-1,reflex podcast - #29 Youtube, los creadores emosido engañado
+http://www.ivoox.com/29-youtube-creadores-emosido-enganado_mf_23340586_feed_1.mp3
+#EXTINF:-1,mixx.io, tecnologĂ­a y negocios - El HomePod no es un home run
+http://tapewrite.com/REST/feed/@alexbarredo/5a682a609e91b02b750bdc9f.mp3
 #EXTINF:-1,Radiogeek - #Radiogeek - Resumen diario día 23 de enero 2018 #Podcast
 http://ar.ivoox.com/es/radiogeek-resumen-diario-dia-23-enero_mf_23321703_feed_1.mp3
+#EXTINF:-1,Linux Express, de Podcast Linux. - #33 Linux Express
+https://gitlab.com/podcastlinux/podcastlinux.gitlab.io/raw/master/Linux-Express/33linuxexpress.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #100: Communities de BGP
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/01/podcast-100-communities.mp3
 #EXTINF:-1,reflex podcast - #28.1 Adiós adobe Lightroom (audio bueno)
