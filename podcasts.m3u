@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,DekNet - Internet del valor, la Internet vital
+http://api.spreaker.com/download/episode/13906770/internet_del_valor_la_internet_vital.mp3
+#EXTINF:-1,Podcast – ForoMóviles - ForoMoviles Podcast 098: Presente, pasado y futuro de los móviles
+http://mundipad.es/capitulos-podcast-bemoob/098-foromoviles-podcast.mp3
 #EXTINF:-1,EntreDevYOps Podcast - EDyO píldora 2 - Migrando la web a Hugo.
 http://podcast.edyo.es/podcast/edyo-pildora2.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Kernel: NiĂąos, Mentiras y Cintas de VĂ­deo (Audio corregido)
