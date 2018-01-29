@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,DekNet - Paranoia contable
+http://api.spreaker.com/download/episode/13914226/paranoia_contable.mp3
+#EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Camarero, hay un bot en mi sopa
+http://tapewrite.com/REST/feed/@alexbarredo/5a6ec6639e91b02b750c99cb.mp3
 #EXTINF:-1,Astronomía y algo más - El Futuro de la NASA en Astrofísica [Ep.116]
 http://traffic.libsyn.com/astroetal/Ep116.mp3
 #EXTINF:-1,Radiogeek - #Radiogeek - ¿Como definir tu próximo estudio? con un test vocacional en línea
