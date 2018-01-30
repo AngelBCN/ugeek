@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,DekNet - Micro Podcast ZUNGLE
+http://api.spreaker.com/download/episode/13926337/imported_1517330552.mp3
+#EXTINF:-1,NOlegaltech Radio - #007-Propiedad del código
+http://ia600808.us.archive.org/9/items/NolegaltechRadio/007NolegaltechRadio-laPropiedadDelCdigo.mp3
+#EXTINF:-1,Web Reactiva - WR 20: Sitios estáticos y datos dinámicos con Gatsby
+http://api.spreaker.com/download/episode/13923627/webreactiva_podcast_20.mp3
+#EXTINF:-1,Code Time - Code Time (99): ¿Qué es el infierno de las dependencias? + Importante anuncio
+https://www.ivoox.com/code-time-99-que-es-infierno-de_mf_23434569_feed_1.mp3
+#EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Lanzando cosas al espacio
+https://cuonda.com/mixxio/lanzando-cosas-al-espacio/518313.mp3
+#EXTINF:-1,La Tecnología para todos - #126 ¿Arduino y ESP se unen? Proyectos que salvan vidas y muchas cosas más
+http://api.spreaker.com/download/episode/13916892/podcast126.mp3
 #EXTINF:-1,Radiogeek - #Radiogeek - Resumen diario día 29 de enero 2018 #Podcast
 http://www.ivoox.com/radiogeek-resumen-diario-dia-29-enero_mf_23431052_feed_1.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #104: Zammad, gestión de tickets
