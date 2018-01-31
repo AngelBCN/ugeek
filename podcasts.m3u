@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Radiogeek - #Radiogeek - Resumen diario día 30 de enero 2018 #Podcast
+http://www.ivoox.com/radiogeek-resumen-diario-dia-30-enero_mf_23459991_feed_1.mp3
+#EXTINF:-1,Tomando Un Café - curso de programación
+https://anchor.fm/s/18c0860/podcast/play/119407/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-data%2Fstationexports%2Fpodcasts%2Fcurso-de-programaci-n-9b58c02bdc9fd.m4a
+#EXTINF:-1,Podcast de Eduardo Collado - Podcast #105: Formación con José Jiménez
+https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/01/podcast-105-formacion-con-jose-jimenez.mp3
 #EXTINF:-1,DekNet - Micro Podcast ZUNGLE
 http://api.spreaker.com/download/episode/13926337/imported_1517330552.mp3
 #EXTINF:-1,NOlegaltech Radio - #007-Propiedad del código
