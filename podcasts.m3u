@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,Podcast de Eduardo Collado - Podcast #108: for y awk en bash
+https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/02/podcast-108-for-y-awk-en-bash.mp3
+#EXTINF:-1,Radiogeek - #Radiogeek - Match.com expertos en relaciones amorosas, entrevista a Directivo
+http://www.ivoox.com/radiogeek-match-com-expertos-relaciones-amorosas-entrevista_mf_23542495_feed_1.mp3
+#EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Kernel: El ĂŠxito de OnePlus
+https://cuonda.com/mixxio/kernel-el-exito-de-oneplus/527477.mp3
+#EXTINF:-1,Vacía tu bandeja - 6: Identifica bien tus Bandejas de Entrada
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/nrqSX5BrfiM/6639181.mp3
+#EXTINF:-1,Vacía tu bandeja - 5: Bullet Journal | Vista semanal y Areas de responsabilidad
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/qJ1RPBPfpiM/6639178.mp3
+#EXTINF:-1,Vacía tu bandeja - 4: Cómo crear un hábito nuevo
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/VLkDjpYZUwQ/6639176.mp3
+#EXTINF:-1,Vacía tu bandeja - 3: El funcionamiento del hábito
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/Vcm8mmXt0hU/6639171.mp3
+#EXTINF:-1,Vacía tu bandeja - 2: Cómo empezar a ser organizado
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/QrR3Zgg74gc/6639170.mp3
+#EXTINF:-1,Vacía tu bandeja - 1: Organízate con Bullet Journal
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/h54KdQK_KDY/6639165.mp3
 #EXTINF:-1,Astronomía y algo más - Moléculas en el espacio y AstroQuímica [Ep.117]
 http://traffic.libsyn.com/astroetal/Ep117.mp3
 #EXTINF:-1,La Hora Maker - LHM142 – Escornabot, los robots educativos libres con Pablo Rubio
@@ -215,6 +233,8 @@ http://www.ivoox.com/radiogeek-resumen-diario-dia-16-enero_mf_23188642_feed_1.mp
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/01/podcast-95-alta-disponibilidad-en-proxmox.mp3
 #EXTINF:-1,Compilando Podcast - Podcast 20 – EterTICs GNU/Linux con Javier Obregón y Meltdwon and Spectre con Alejandro López (Slimbook)
 http://compilando.audio/wp-content/uploads/2018/01/podcast20.mp3
+#EXTINF:-1,Vacía tu bandeja - 16: Descubre tus hábitos básicos y comienza el cambio
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/13QOSzROdJU/6622238.mp3
 #EXTINF:-1,Web Reactiva - WR 18: ¡Mamá, quiero ser freelance!
 http://api.spreaker.com/download/episode/13814441/webreactiva_podcast_18.mp3
 #EXTINF:-1,mixx.io, tecnología y negocios - Facebook: los nuevos Illuminati
@@ -371,6 +391,8 @@ http://www.ivoox.com/radiogeek-que-dispositivos-quedaran-sin-whatsapp-en_mf_2285
 https://gitlab.com/podcastlinux/podcastlinux.gitlab.io/raw/master/Linux-Express/31linuxexpress.mp3
 #EXTINF:-1,WeCodeSign Podcast - 2x14 - Polymer
 http://feedproxy.google.com/~r/WecodesignPodcast/~5/_uCDPDZw7Rg/WeCodeSign%202x14%20-%20Polymer.mp3
+#EXTINF:-1,Vacía tu bandeja - 15: Fin de año | Revisa tus proyectos y objetivos
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/De-gslK6bsk/6622239.mp3
 #EXTINF:-1,Web Reactiva - WR 15: El aguinaldo navideño
 http://api.spreaker.com/download/episode/13658913/webreactiva_podcast_15.mp3
 #EXTINF:-1,Radiogeek - #Radiogeek - Especial películas y series Diciembre 2017
@@ -509,6 +531,8 @@ https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploa
 http://feedproxy.google.com/~r/WecodesignPodcast/~5/2FBnmpGpvXA/WeCodeSign%202x13%20-%20Proyectos%20Sostenibles.mp3
 #EXTINF:-1,Tomando Un Café - Reflexión sobre Software Libre
 https://anchor.fm/s/18c0860/podcast/download/73685/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-data%2Fstationexports%2Fpodcasts%2FReflexi-n-sobre-Software-Libre-e441b001260f9.m4a
+#EXTINF:-1,Vacía tu bandeja - 14: Bullet Journal | Adáptalo a los principios del GTD
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/TCSxrOELpFY/6622240.mp3
 #EXTINF:-1,Web Reactiva - WR 13: Así creamos nuestro primer chatbot
 http://api.spreaker.com/download/episode/13565951/webreactiva_podcast_13.mp3
 #EXTINF:-1,Code Time - Code Time (96): Causas y tipos de degradación del Software
@@ -737,6 +761,8 @@ https://deployando.me/podcast-download/191/23-rancheros.mp3
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2017/11/podcast-66-medicion-del-ancho-de-banda.mp3
 #EXTINF:-1,Tomando Un Café - Raspberry
 https://anchor.fm/s/18c0860/podcast/download/60964/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-data%2Fstationexports%2Fpodcasts%2FRaspberry-ea912a99ca103.m4a
+#EXTINF:-1,Vacía tu bandeja - 13: Aprendizaje | ¿Sabes en que fase estás?
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/GZTKQ6dADR8/6622241.mp3
 #EXTINF:-1,Tomando Un Café - 21 nov. 2017
 https://anchor.fm/s/18c0860/podcast/download/60780/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-data%2Fstationexports%2Fpodcasts%2F21-nov--2017-2944addd0e63f.m4a
 #EXTINF:-1,Tomando Un Café - DietPi
@@ -871,6 +897,8 @@ http://tapewrite.com/REST/feed/@alexbarredo/5a0275c26df7fd2b59ef25b1.mp3
 http://tracking.feedpress.it/link/14730/7427247/CN_Programa_028.mp3
 #EXTINF:-1,Astronomía y algo más - Variables cataclísmicas, sistemas binarios y Observatorio Gimini [Ep.111]
 http://traffic.libsyn.com/astroetal/Ep111_mixdown.mp3
+#EXTINF:-1,Vacía tu bandeja - 12: yUML | Crea Diagramas a partir de texto plano
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/8ctQI5skS9E/6622242.mp3
 #EXTINF:-1,Bateria2x100 - #162 – Sigo viviendo con retraso…
 http://tracking.feedpress.it/link/15283/7327708/Bat2x100_162.m4a
 #EXTINF:-1,Web Reactiva - WR 8: El programador mató a la startup
@@ -983,6 +1011,8 @@ http://www.ivoox.com/37-cultura-libre_mf_21673527_feed_1.mp3
 http://tapewrite.com/REST/feed/@alexbarredo/59f040e59e91b02b75013ecf.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #57: Jitsi
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2017/10/podcast-57-jitsi.mp3
+#EXTINF:-1,Vacía tu bandeja - 11: Correo | Cómo redactar un buen Asunto
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/NJhtLl-ARLE/6622243.mp3
 #EXTINF:-1,Web Reactiva - WR 6: Cómo explicar proyectos tecnológicos a tu jefe o cliente
 http://api.spreaker.com/download/episode/13111917/wr_6_como_explicar_proyectos_tecnolo_gicos_a_tu_jefe_o_cliente.mp3
 #EXTINF:-1,Code Time - Code Time (89): ¿Qué estudian las ciencias de la computación?
@@ -1089,6 +1119,8 @@ http://api.spreaker.com/download/episode/13006362/podcast120.mp3
 http://api.spreaker.com/download/episode/13002280/webreactiva_podcast_04.mp3
 #EXTINF:-1,Code Time - Code Time (87): ¿Qué son las ciencias de la computación?
 http://www.ivoox.com/code-time-87-que-son-ciencias-de_mf_21360640_feed_1.mp3
+#EXTINF:-1,Vacía tu bandeja - 10: Cómo conseguir las metas que te propones
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/uCJqPzKEP0A/6622244.mp3
 #EXTINF:-1,mixx.io, tecnología y negocios - Seis años sin Steve Jobs
 http://tapewrite.com/REST/feed/@alexbarredo/59dab2569e91b02b75ff31e7.mp3
 #EXTINF:-1,Vacia Tu Bandeja - #10-Cómo conseguir las metas que te propones
@@ -1277,6 +1309,8 @@ http://www.ivoox.com/emacs-editor-texto-vida_mf_20808274_feed_1.mp3
 http://www.ivoox.com/34-directo-maraton-linuxero_mf_20794227_feed_1.mp3
 #EXTINF:-1,mixx.io, tecnología y negocios - Una filtración no es un spoiler...
 http://tapewrite.com/REST/feed/@alexbarredo/59b629ee9e91b02b75fc78b3.mp3
+#EXTINF:-1,Vacía tu bandeja - 9: Elimina el desorden Visual | Un poco de minimalismo
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/Knb_2NL-Tfw/6622245.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #50: Sandstorm
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2017/09/podcast-50-sandstorm.mp3
 #EXTINF:-1,La Hora Maker - LHM 106 – Exploramos la nube y gran avance de los eventos del otoño
@@ -1467,6 +1501,8 @@ http://tapewrite.com/REST/feed/@alexbarredo/598a8fcd9e91b02b75f9f859.mp3
 http://api.spreaker.com/download/episode/12530934/cap_30_mis_dispositivos_y_vuelta_al_podcast.mp3
 #EXTINF:-1,uGeek - Tecnología, Android, Linux, Servidores y mucho más... - 073. ¿Porque se descarga tan rápido la batería de mi Android?
 https://ia601501.us.archive.org/17/items/073.PorqueSeDescargaTanRapido/073.%20Porque_se_descarga_tan_rapido.mp3
+#EXTINF:-1,Vacía tu bandeja - 8: Bullet Journal | Chronodex: Gestiona tu tiempo de forma visual
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/Pj38C5dScHY/6622246.mp3
 #EXTINF:-1,mixx.io, tecnología y negocios - Diecinueve coma cinco novenos
 http://tapewrite.com/REST/feed/@alexbarredo/59881f4c9e91b02b75f9d742.mp3
 #EXTINF:-1,Linux Express, de Podcast Linux. - #22 Linux Express
@@ -1755,6 +1791,8 @@ https://ia801501.us.archive.org/34/items/064.ResilioLaNubeDondeElControlLoTienes
 http://www.ivoox.com/almacenamiento-cap-73_mf_19296423_feed_1.mp3
 #EXTINF:-1,eDucando Geek - #28 Nuevo proyecto de eDucando Geek Podcast-Blog
 https://archive.org/download/28NuevoProyectoEducandoGeek/28-nuevo-proyecto-educando-geek.mp3
+#EXTINF:-1,Vacía tu bandeja - 7: Cómo enfocar el Aprendizaje
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/vznvtyISLDM/6622247.mp3
 #EXTINF:-1,Vacia Tu Bandeja - #07-Cómo enfocar el Aprendizaje
 http://feedproxy.google.com/~r/Vaciatubandeja/~5/QyOBSOkOrJM/07%20Como%20enfocar%20el%20Aprendizaje.mp3
 #EXTINF:-1,eDucando Geek - #27 Operadoras. La sarten por el mango la tienes tú
