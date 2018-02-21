@@ -1,8 +1,20 @@
 #EXTM3U
+#EXTINF:-1,Cultura NAS - #CN031 – Álvaro González, nuevo Synology Product Manager para España y Portugal
+http://tracking.feedpress.it/link/14730/8341303/CN_Programa_031.mp3
+#EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Apps que vienen y se van
+https://cuonda.com/mixxio/apps-que-vienen-y-se-van/789845.mp3
+#EXTINF:-1,DekNet - ¿Las operadoras, nos estafan, o se aprovechan?
+http://api.spreaker.com/download/episode/14102592/las_operadoras_nos_estafan_o_se_aprovechan.mp3
+#EXTINF:-1,Vacía tu bandeja - 18: Un año de Vacía tu bandeja
+http://feedproxy.google.com/~r/Vaciatubandeja/~5/Nh9JBipd-jU/6684219.mp3
+#EXTINF:-1,uGeek - Tecnología, Android, Linux, Servidores y mucho más... - 092. Iniciarse en GNU/Linux y aprender con la Terminal
+https://ia601501.us.archive.org/28/items/92.IniciarseEnLinux/92.Iniciarse_en_linux.mp3
 #EXTINF:-1,deployando.me - 26 – Cluster de Docker
 https://deployando.me/podcast-download/199/26-cluster-de-docker.mp3
 #EXTINF:-1,Radiogeek - #Radiogeek - Resumen diario día 20 de febrero 2018 #Podcast
 http://www.ivoox.com/radiogeek-resumen-diario-dia-20-febrero_mf_23923509_feed_1.mp3
+#EXTINF:-1,Linux Express, de Podcast Linux. - #35 Linux Express
+https://gitlab.com/podcastlinux/podcastlinux.gitlab.io/raw/master/Linux-Express/35linuxexpress.mp3
 #EXTINF:-1,Code Time - Script Time: El entretenimiento de los programadores durante el trabajo
 http://www.ivoox.com/script-time-el-entretenimiento-programadores-durante_mf_23918680_feed_1.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #120: VLSM en Routing, el caso de Apple
