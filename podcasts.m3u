@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,deployando.me - 26 – Cluster de Docker
+https://deployando.me/podcast-download/199/26-cluster-de-docker.mp3
+#EXTINF:-1,Radiogeek - #Radiogeek - Resumen diario día 20 de febrero 2018 #Podcast
+http://www.ivoox.com/radiogeek-resumen-diario-dia-20-febrero_mf_23923509_feed_1.mp3
+#EXTINF:-1,Code Time - Script Time: El entretenimiento de los programadores durante el trabajo
+http://www.ivoox.com/script-time-el-entretenimiento-programadores-durante_mf_23918680_feed_1.mp3
+#EXTINF:-1,Podcast de Eduardo Collado - Podcast #120: VLSM en Routing, el caso de Apple
+https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/02/podcast-120-vlsm-en-routing-caso-apple.mp3
 #EXTINF:-1,Web Reactiva - WR 23: Cómo empezar en desarrollo web
 http://api.spreaker.com/download/episode/14096660/webreactiva_podcast_23.mp3
 #EXTINF:-1,Code Time - Code Time (101): Soluciones al problema del infierno de las dependencias
