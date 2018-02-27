@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,Web Reactiva - WR 24: Yo quiero un membership site
+http://api.spreaker.com/download/episode/14156571/webreactiva_podcast_24.mp3
+#EXTINF:-1,Salmorejo Geek - #173 OK Diario te enseña a instalar Ubuntu
+http://www.ivoox.com/173-ok-diario-te-ensena-a-instalar-ubuntu_mf_24104139_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time (102): ¿Cómo almacenar contraseñas en una base de datos?
+http://www.ivoox.com/code-time-102-como-almacenar-contrasenas-una_mf_24103996_feed_1.mp3
+#EXTINF:-1,La Tecnología para todos - #130 Monitorizar temperatura en invernaderos con Arduino y más preguntas
+http://api.spreaker.com/download/episode/14153140/podcast_130.mp3
 #EXTINF:-1,Radiogeek - #Radiogeek - Resumen diario todo sobre el MWC2018 Día 1
 http://www.ivoox.com/radiogeek-resumen-diario-todo-sobre-mwc2018_mf_24087819_feed_1.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #124: Balanceo de carga en conexiones a Internet
