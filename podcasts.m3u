@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Radiogeek - #Radiogeek – Resumen diario día 6 de marzo 2018 #Podcast
+http://www.ivoox.com/radiogeek-resumen-diario-dia-6-marzo_mf_24255038_feed_1.mp3
 #EXTINF:-1,Web Reactiva - WR 25: WeCode 2018 y la teoría de los huevos estrellados
 http://api.spreaker.com/download/episode/14215014/webreactiva_podcast_25.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Spotify empieza a bloquear a los piratas
@@ -135,10 +137,14 @@ https://gitlab.com/podcastlinux/podcastlinux.gitlab.io/raw/master/Linux-Express/
 http://www.ivoox.com/script-time-el-entretenimiento-programadores-durante_mf_23918680_feed_1.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #120: VLSM en Routing, el caso de Apple
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/02/podcast-120-vlsm-en-routing-caso-apple.mp3
+#EXTINF:-1,Code Time - Script Time: El entretenimiento de los programadores durante el trabajo
+http://www.ivoox.com/script-time-el-entretenimiento-programadores-durante_mf_24247110_feed_1.mp3
 #EXTINF:-1,Web Reactiva - WR 23: Cómo empezar en desarrollo web
 http://api.spreaker.com/download/episode/14096660/webreactiva_podcast_23.mp3
 #EXTINF:-1,Code Time - Code Time (101): Soluciones al problema del infierno de las dependencias
 http://www.ivoox.com/code-time-101-soluciones-al-problema-del-infierno_mf_23889901_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time (101): Soluciones al problema del infierno de las dependencias
+http://www.ivoox.com/code-time-101-soluciones-al-problema-del-infierno_mf_24247111_feed_1.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Suecia se queda sin dinero fĂ­sico
 https://cuonda.com/mixxio/suecia-se-queda-sin-dinero-fisico/787003.mp3
 #EXTINF:-1,La Tecnología para todos - #129 Feria de Tecnologías Abiertas Lucentum Maker
@@ -217,6 +223,8 @@ https://cuonda.com/mixxio/problemas-de-perspectivas/576030.mp3
 http://api.spreaker.com/download/episode/14037126/podcast128.mp3
 #EXTINF:-1,Code Time - Anécdotas Giordánicas (7): Mis primer contacto con la programación
 http://www.ivoox.com/anecdotas-giordanicas-7-mis-primer-contacto-la_mf_23713561_feed_1.mp3
+#EXTINF:-1,Code Time - Anécdotas Giordánicas (7): Mi primer contacto con la programación
+http://www.ivoox.com/anecdotas-giordanicas-7-mi-primer-contacto-la_mf_24247112_feed_1.mp3
 #EXTINF:-1,Radiogeek - #Radiogeek - Resumen diario 12 de febrero - Gracias @GSMALatam @GSMA por no dejarnos cubrir el MWC2018
 http://www.ivoox.com/radiogeek-resumen-diario-12-febrero_mf_23711719_feed_1.mp3
 #EXTINF:-1,Ubuntu y otras hierbas - S02E04Extra UbuCon y otras hierbas
@@ -281,6 +289,8 @@ https://gitlab.com/podcastlinux/podcastlinux.gitlab.io/raw/master/Linux-Express/
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/02/podcast-110-coliad.mp3
 #EXTINF:-1,Code Time - Code Time (100): Los problemas del infierno de las dependencias
 http://www.ivoox.com/code-time-100-los-problemas-del-infierno-de_mf_23581268_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time (100): Los problemas del infierno de las dependencias
+http://www.ivoox.com/code-time-100-los-problemas-del-infierno-de_mf_24247113_feed_1.mp3
 #EXTINF:-1,Web Reactiva - WR 21: Gestión de equipos y desarrollo de software con Israel Alcázar
 http://api.spreaker.com/download/episode/13978143/webreactiva_podcast_21.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Heavy, heavy, super heavy
@@ -373,6 +383,8 @@ http://www.ivoox.com/code-time-99-que-es-infierno-de_mf_23434569_feed_1.mp3
 https://cuonda.com/mixxio/lanzando-cosas-al-espacio/518313.mp3
 #EXTINF:-1,La Tecnología para todos - #126 ¿Arduino y ESP se unen? Proyectos que salvan vidas y muchas cosas más
 http://api.spreaker.com/download/episode/13916892/podcast126.mp3
+#EXTINF:-1,Code Time - Code Time (99): ¿Qué es el infierno de las dependencias? + Importante anuncio
+http://www.ivoox.com/code-time-99-que-es-infierno-de_mf_24247114_feed_1.mp3
 #EXTINF:-1,Radiogeek - #Radiogeek - Resumen diario día 29 de enero 2018 #Podcast
 http://www.ivoox.com/radiogeek-resumen-diario-dia-29-enero_mf_23431052_feed_1.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #104: Zammad, gestión de tickets
@@ -455,6 +467,12 @@ http://www.ivoox.com/anecdotas-giordanicas-5-como-perdi-2tb-informacion_mf_23298
 https://cuonda.com/mixxio/dame-mi-dinero-facebook/518305.mp3
 #EXTINF:-1,La Tecnología para todos - #125 ¿Por dónde empezar con Arduino? y sistema de riego con SigFox y LoRa
 http://api.spreaker.com/download/episode/13860226/podcast125.mp3
+#EXTINF:-1,Code Time - Anécdotas Giordánicas (5) ¿Cómo perdí 2TB de información y los recuperé? PT 3
+http://www.ivoox.com/anecdotas-giordanicas-5-como-perdi-2tb-informacion_mf_24247115_feed_1.mp3
+#EXTINF:-1,Code Time - Anécdotas Giordánicas (5) ¿Cómo perdí 2TB de información y los recuperé? PT 2
+http://www.ivoox.com/anecdotas-giordanicas-5-como-perdi-2tb-informacion_mf_24247116_feed_1.mp3
+#EXTINF:-1,Code Time - Anécdotas Giordánicas (5) ¿Cómo perdí 2TB de información y los recuperé? PT 1
+http://www.ivoox.com/anecdotas-giordanicas-5-como-perdi-2tb-informacion_mf_24247117_feed_1.mp3
 #EXTINF:-1,Radiogeek - #Radiogeek - Resumen diario día 22 de enero 2018 #Podcast
 http://www.ivoox.com/radiogeek-resumen-diario-dia-22-enero_mf_23294533_feed_1.mp3
 #EXTINF:-1,Bateria2x100 - #176 – In reply to Macjosan & Dekkar
