@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Podcast de Eduardo Collado - Podcast #136: Vim-Bootstrap
+https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/03/podcast-136-vim-bootstrap.mp3
 #EXTINF:-1,Ubuntu y otras hierbas - S02E05 Creative Commons & Ubuntu en servidores
 http://www.ivoox.com/s02e05-creative-commons-ubuntu-servidores_mf_24590356_feed_1.mp3
 #EXTINF:-1,DekNet - En recuerdo de mi padre
@@ -7,6 +9,8 @@ http://api.spreaker.com/download/episode/14318618/en_recuerdo_de_mi_padre.mp3
 http://traffic.libsyn.com/astroetal/Ep123.mp3
 #EXTINF:-1,Salmorejo Geek - #175 GrippoHopping: openSUSE, Ubuntu, Manjaro, Fedora, Anaconda y Yo
 http://www.ivoox.com/175-grippohopping-opensuse-ubuntu-manjaro-fedora-anaconda-y_mf_24569495_feed_1.mp3
+#EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Google anuncia oficialmente “Wear OS”
+https://cuonda.com/mixxio/google-anuncia-oficialmente-wear-os/830144.mp3
 #EXTINF:-1,Mosqueteroweb tecnologia, Linux, Chromebooks - Nueva Raspberry pi 3 b+
 http://www.ivoox.com/nueva-raspberry-pi-3-b_mf_24562722_feed_1.mp3
 #EXTINF:-1,Radiogeek - #Radiogeek – Resumen diario día 15 de marzo 2018 #Podcast
