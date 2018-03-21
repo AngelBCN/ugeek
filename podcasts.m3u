@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,deployando.me - 27 – docker swarm
+https://deployando.me/podcast-download/209/27-docker-swarm.mp3
+#EXTINF:-1,Radiogeek - #Radiogeek – Resumen diario día 20 de marzo 2018 #Podcast
+http://www.ivoox.com/radiogeek-resumen-diario-dia-20-marzo_mf_24673961_feed_1.mp3
+#EXTINF:-1,Podcast de Eduardo Collado - Podcast #138: Configuración básica de Catalyst
+https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/03/podcast-138-esquema-de-red.mp3
+#EXTINF:-1,Code Time - Code Time (105): El problema de las soluciones de Software + Concurso internacional de cursos
+http://www.ivoox.com/code-time-105-el-problema-soluciones_mf_24650876_feed_1.mp3
 #EXTINF:-1,Web Reactiva - WR 27: Convierte tu web en PWA (Progressive Web App)
 http://api.spreaker.com/download/episode/14338967/webreactiva_podcast_27.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Un coche autĂłnomo atropella mortalmente a un peatĂłn
