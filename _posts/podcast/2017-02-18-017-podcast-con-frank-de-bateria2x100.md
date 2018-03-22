@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "017. Podcast con Frank de Bateria2x100, hablando de Plex, Nextcloud..."
+title: "Podcast con Frank de Bateria2x100, hablando de Plex, Nextcloud..."
 date: 2017-02-18
 image: img/ugeek.png
 podcast_link: https://ia801300.us.archive.org/34/items/017PodcastConFrankDeBateria2x100HablandoDePlexNextcloud.../%23017%20Podcast%20con%20Frank%20de%20Bateria2x100%2c%20hablando%20de%20Plex%2c%20Nextcloud....mp3

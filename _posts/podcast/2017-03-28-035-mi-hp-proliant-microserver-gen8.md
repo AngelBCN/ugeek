@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "035. Mi HP ProLiant MicroServer Gen8 "
+title: "Mi HP ProLiant MicroServer Gen8 "
 date: 2017-03-28
 image: img/ugeek.png
 podcast_link: https://ia601501.us.archive.org/10/items/035MiG8/%23035%20Mi%20G8.mp3

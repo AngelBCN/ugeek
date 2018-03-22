@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '024. Conectate remotamente a tu Raspberry Pi con "dataplicity" '
+title: 'Conectate remotamente a tu Raspberry Pi con "dataplicity" '
 date: 2017-03-07
 image: img/ugeek.png
 podcast_link: https://ia601605.us.archive.org/10/items/024ConectateRemotamenteATuRaspberryPiCondataplicity/%23024%20Conectate%20remotamente%20a%20tu%20Raspberry%20Pi%20con%20%22dataplicity%22%20.mp3

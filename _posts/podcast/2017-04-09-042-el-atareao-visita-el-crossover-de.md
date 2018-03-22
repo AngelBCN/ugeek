@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "042. El Atareao visita el Crossover de la Semana"
+title: "El Atareao visita el Crossover de la Semana"
 date: 2017-04-09
 image: img/ugeek.png
 podcast_link: https://ia601502.us.archive.org/25/items/042ElAtareaoVisitaElCrossoverDeLaSemana/%23042%20El%20Atareao%20visita%20el%20Crossover%20de%20la%20Semana.mp3

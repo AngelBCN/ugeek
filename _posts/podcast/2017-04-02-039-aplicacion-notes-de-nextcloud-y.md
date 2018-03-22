@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "039. Aplicación Notes de Nextcloud y crea tus bots de Telegram"
+title: "Aplicación Notes de Nextcloud y crea tus bots de Telegram"
 date: 2017-04-02
 image: img/ugeek.png
 podcast_link: https://ia601508.us.archive.org/2/items/039TelegramNotes/%23039%20Telegram%2c%20Notes.mp3

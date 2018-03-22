@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "026. Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestras
+title: "Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestras
   Fotos, actualidad y sorteo del libro del año"
 date: 2017-03-11
 image: img/ugeek.png

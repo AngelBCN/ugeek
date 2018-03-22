@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "029. Miscelánea de Viernes. "
+title: "Miscelánea de Viernes. "
 date: 2017-03-17
 image: img/ugeek.png
 podcast_link: https://ia601608.us.archive.org/28/items/029MiscelneaDeViernes/%23029%20Miscel%C3%A1nea%20de%20viernes.mp3

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "021. Ubuntu en el Mobile World Congress "
+title: "Ubuntu en el Mobile World Congress "
 date: 2017-02-28
 image: img/ugeek.png
 podcast_link: https://ia801606.us.archive.org/21/items/021UbuntuEnMobileWorldCongress/%23021%20ubuntu%20en%20Mobile%20World%20Congress%20.mp3

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "015. Como ampliar el almacenamiento de Nextcloud, combinar con nubes publicas
+title: "Como ampliar el almacenamiento de Nextcloud, combinar con nubes publicas
   y hacer copias de mis fotos."
 date: 2017-02-16
 image: img/ugeek.png

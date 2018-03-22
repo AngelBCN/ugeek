@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "040. Antergos, Ocnews De Nextcloud Y Jekyll"
+title: "Antergos, Ocnews De Nextcloud Y Jekyll"
 date: 2017-04-06
 image: img/ugeek.png
 podcast_link: https://ia801504.us.archive.org/29/items/40AntergosOCNewsDeNextcloudYJekyll/%2340%20Antergos%2c%20OCNews%20de%20Nextcloud%20y%20Jekyll%20.mp3

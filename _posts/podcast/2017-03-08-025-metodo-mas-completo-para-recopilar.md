@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "025. Metodo mas completo para recopilar notas, org Mode"
+title: "Metodo mas completo para recopilar notas, org Mode"
 date: 2017-03-08
 image: img/ugeek.png
 podcast_link: https://ia601600.us.archive.org/16/items/025MtodoMMsCompletoQueParaRecopilarNotasOrgMode/%23025%20M%C3%A9todo%20m%C3%A1s%20completo%20que%20para%20recopilar%20notas%2C%20org%20mode.mp3

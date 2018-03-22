@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "031. Keepass, como gestiono mis contraseñas"
+title: "Keepass, como gestiono mis contraseñas"
 date: 2017-03-22
 image: img/ugeek.png
 podcast_link: https://ia601606.us.archive.org/14/items/031Keepass.ComoGestionoMisContrasenas/%23031%20Keepass.%20Como%20gestiono%20mis%20contrase%C3%B1as.mp3

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "027. Instala una VPN (OpenVpn) en Ubuntu o Raspberry Pi con PiVpn"
+title: "Instala una VPN (OpenVpn) en Ubuntu o Raspberry Pi con PiVpn"
 date: 2017-03-14
 image: img/ugeek.png
 podcast_link: https://ia601606.us.archive.org/3/items/027InstalaTuVpnEnUbuntuORaspberryPi/%23027%20instala%20tu%20vpn%20en%20Ubuntu%20o%20Raspberry%20Pi.mp3

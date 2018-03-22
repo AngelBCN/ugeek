@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "033. Bots en Telegram. Bot de Pocket"
+title: "Bots en Telegram. Bot de Pocket"
 date: 2017-03-24
 image: img/ugeek.png
 podcast_link: https://ia601500.us.archive.org/4/items/033BotDePocketParaTelegram/%23033%20Bot%20de%20Pocket%20para%20Telegram.mp3

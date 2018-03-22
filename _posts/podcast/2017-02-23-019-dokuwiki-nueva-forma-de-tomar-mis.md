@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "019. Dokuwiki, nueva forma de tomar mis notas. Monta tu wiki con DokuWiki
+title: "Dokuwiki, nueva forma de tomar mis notas. Monta tu wiki con DokuWiki
   o MediaWiki."
 date: 2017-02-23
 image: img/ugeek.png

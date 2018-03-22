@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "018. Como montar Wallabag, el Pocket o Instapaper de software libre y lo mejor
+title: "Como montar Wallabag, el Pocket o Instapaper de software libre y lo mejor
   de todo, en tu servidor"
 date: 2017-02-21
 image: img/ugeek.png

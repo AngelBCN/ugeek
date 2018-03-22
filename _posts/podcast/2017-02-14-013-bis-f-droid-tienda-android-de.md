@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "013. bis F-Droid Tienda Android de aplicaciones de Software Libre y Actualizar
+title: "bis F-Droid Tienda Android de aplicaciones de Software Libre y Actualizar
   las Noticias en Nextcloud."
 date: 2017-02-14
 image: img/ugeek.png

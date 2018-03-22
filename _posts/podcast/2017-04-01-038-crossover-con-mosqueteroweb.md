@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "038. Crossover con MosqueteroWeb. Masterclass de FreeNas, Docker y virtualización
+title: "Crossover con MosqueteroWeb. Masterclass de FreeNas, Docker y virtualización
   mediante Proxmox y Esxi."
 date: 2017-04-01
 image: img/ugeek.png

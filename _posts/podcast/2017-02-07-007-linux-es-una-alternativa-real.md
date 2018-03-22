@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "007. Linux es una alternativa real"
+title: "Linux es una alternativa real"
 date: 2017-02-07
 image: img/ugeek.png
 podcast_link: hhttps://ia601902.us.archive.org/28/items/007LinuxEsUnaAlternativaReal/%23007%20Linux%20es%20una%20alternativa%20real.mp3

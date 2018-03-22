@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "009. Crea tu podcast en 3 simples pasos y totalmente gratis"
+title: "Crea tu podcast en 3 simples pasos y totalmente gratis"
 date: 2017-02-09
 image: img/ugeek.png
 podcast_link: https://ia601602.us.archive.org/11/items/ComoCrearTuPodcastYTotalmenteGtatis/Como%20crear%20tu%20podcast%20y%20totalmente%20gtatis.mp3

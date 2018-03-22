@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "004. Servidor Linux Vs QNAP-Synology"
+title: "Servidor Linux Vs QNAP-Synology"
 date: 2017-02-01
 image: img/ugeek.png
 podcast_link: https://ia601903.us.archive.org/19/items/004ServidorLinuxVsQNapSynology/%23004%20Servidor%20Linux%20Vs%20QNap-Synology.mp3

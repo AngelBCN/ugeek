@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "023. Entrevista a Chema y Juan, dos desarrolladores de Software Libre de Igalia.com
+title: "Entrevista a Chema y Juan, dos desarrolladores de Software Libre de Igalia.com
   en el #mwc17"
 date: 2017-03-04
 image: img/ugeek.png

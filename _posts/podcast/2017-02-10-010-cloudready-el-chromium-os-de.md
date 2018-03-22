@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "010. CloudReady el Chromium OS de bolsillo"
+title: "CloudReady el Chromium OS de bolsillo"
 date: 2017-02-10
 image: img/ugeek.png
 podcast_link: https://ia601603.us.archive.org/9/items/010ElSistemaOperativoDeBolsillo/%23010%20El%20Sistema%20Operativo%20de%20bolsillo.mp3

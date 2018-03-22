@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "032. Miscelánea de Viernes"
+title: "Miscelánea de Viernes"
 date: 2017-03-24
 image: img/ugeek.png
 podcast_link: https://ia601606.us.archive.org/30/items/032MiscelaneaDeViernes/%23032%20Miscel%C3%A1nea%20de%20Viernes.mp3

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "028. Instala un servidor de mensajeria tipo Whatsapp o Telegram y de Software
+title: "Instala un servidor de mensajeria tipo Whatsapp o Telegram y de Software
   Libre con XMPP/Jabber "
 date: 2017-03-16
 image: img/ugeek.png

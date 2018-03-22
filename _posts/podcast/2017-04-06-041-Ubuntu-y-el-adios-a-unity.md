@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "041. Ubuntu y el adios de Unity"
+title: "Ubuntu y el adios de Unity"
 date: 2017-04-06
 image: img/ugeek.png
 podcast_link: https://ia801502.us.archive.org/1/items/041UbuntuYElAdiosAUnity/%23041%20Ubuntu%20y%20el%20adi%c3%b3s%20a%20Unity.mp3

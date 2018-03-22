@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "037. Llamadas de Telegram ya estan aquí. Y 3 bots que os encantaran"
+title: "Llamadas de Telegram ya estan aquí. Y 3 bots que os encantaran"
 date: 2017-03-30
 image: img/ugeek.png
 podcast_link: https://ia801503.us.archive.org/18/items/037LlamadasDeTelegram/%23037%20Llamadas%20de%20Telegram.mp3

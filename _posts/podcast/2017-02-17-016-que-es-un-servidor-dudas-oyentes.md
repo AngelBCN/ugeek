@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "016. Que es un Servidor (dudas oyentes), servidor web, ..."
+title: "Que es un Servidor (dudas oyentes), servidor web, ..."
 date: 2017-02-17
 image: img/ugeek.png
 podcast_link: https://ia801603.us.archive.org/24/items/016QueEsUnServidor/%23016%20Que%20es%20un%20servidor.mp3

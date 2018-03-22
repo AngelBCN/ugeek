@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "022. Entrevista con Arturo Suarez, DIrectivo del Cloud de Canonical Ubuntu"
+title: "Entrevista con Arturo Suarez, DIrectivo del Cloud de Canonical Ubuntu"
 date: 2017-03-02
 image: img/ugeek.png
 podcast_link: https://ia601600.us.archive.org/33/items/EntrevistaConArturoSuarezDirectivoDelCloudDeCanonicalUbuntu/Entrevista%20con%20Arturo%20Suarez,%20Directivo%20del%20Cloud%20de%20Canonical%20Ubuntu.mp3

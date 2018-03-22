@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "020. Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestra
+title: "Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestra
   notas y mucho mas..."
 date: 2017-02-25
 image: img/ugeek.png

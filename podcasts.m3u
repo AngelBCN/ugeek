@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,Tomando Un Café - Tomando Un Café 25: Entornos virtuales y Virtualenvwrapper
+https://anchor.fm/s/18c0860/podcast/play/296766/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-audio-bank%2Fstaging%2F2018-2-22%2FTomando-Un-Caf--25--Entornos-v-bc33c79d43de9.m4a
+#EXTINF:-1,Programar es una mierda - Episodio 23 - Clean Architecture, Event Sourcing y CQRS
+http://www.ivoox.com/episodio-23-clean-architecture-event-sourcing-y_mf_24729084_feed_1.mp3
+#EXTINF:-1,Radiogeek - #Radiogeek – Resumen diario día 21 de marzo 2018 #Podcast
+http://www.ivoox.com/radiogeek-resumen-diario-dia-21-marzo_mf_24728655_feed_1.mp3
+#EXTINF:-1,NeoSiteLinux Podcast - NeoSiteLinux Podcast 2018 - #4 - Opinando sobre el futuro de GNULinux
+http://www.ivoox.com/neositelinux-podcast-2018-4-opinando-sobre_mf_24728511_feed_1.mp3
+#EXTINF:-1,Podcast de Eduardo Collado - Podcast #139: Caída de Ivoox
+https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/03/podcast-139-caida-de-ivoox.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - ÂżDĂłnde estĂĄ Zuckerberg?
 https://cuonda.com/mixxio/donde-esta-zuckerberg/844055.mp3
 #EXTINF:-1,deployando.me - 27 – docker swarm

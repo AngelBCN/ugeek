@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "008. Como gestiono mis Notas"
+title: "Como gestiono mis Notas"
 date: 2017-02-08
 image: img/ugeek.png
 podcast_link: https://ia801900.us.archive.org/13/items/008ComoGestionoMisNotas/%23008%20Como%20gestiono%20mis%20notas.mp3

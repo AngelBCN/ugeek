@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "043. Bot de Telegram IFTTT"
+title: "Bot de Telegram IFTTT"
 date: 2017-04-10
 image: img/ugeek.png
 podcast_link: https://ia601509.us.archive.org/23/items/043BotDeTelegramDeIFTTT/%23043%20Bot%20de%20Telegram%20de%20IFTTT.mp3

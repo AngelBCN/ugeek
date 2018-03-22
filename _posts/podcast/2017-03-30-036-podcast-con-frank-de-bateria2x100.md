@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "036. Podcast con Frank de Batería2x100, Servidores Linux y NAS, lo mismo pero
+title: "Podcast con Frank de Batería2x100, Servidores Linux y NAS, lo mismo pero
   \ diferente"
 date: 2017-03-30
 image: img/ugeek.png

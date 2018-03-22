@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "051. Adiós Blogger, Hola GitHub!"
+title: "Adiós Blogger, Hola GitHub!"
 date: 2017-05-04
 author: Angel
 categories: podcast

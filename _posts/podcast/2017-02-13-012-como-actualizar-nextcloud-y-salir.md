@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '012. Como actualizar Nextcloud y salir del modo de "mantenimiento"'
+title: 'Como actualizar Nextcloud y salir del modo de "mantenimiento"'
 date: 2017-02-13
 image: img/ugeek.png
 podcast_link: https://ia801601.us.archive.org/24/items/012CmoActualizarNextcloudY/%23012_c%c3%b3mo_actualizar_Nextcloud_y.mp3

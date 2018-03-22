@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "014. Notas en Nextcloud y Markdown"
+title: "Notas en Nextcloud y Markdown"
 date: 2017-02-15
 image: img/ugeek.png
 podcast_link: https://ia601602.us.archive.org/11/items/NotasEnNextcloud/Notas%20en%20nextcloud.mp3

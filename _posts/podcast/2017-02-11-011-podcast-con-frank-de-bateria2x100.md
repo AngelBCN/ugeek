@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "011. Podcast con Frank de Bateria2x100, hablando un poco de todo..."
+title: "Podcast con Frank de Bateria2x100, hablando un poco de todo..."
 date: 2017-02-11
 image: img/ugeek.png
 podcast_link: https://ia801602.us.archive.org/16/items/011PodcastConFrankDeBateria2x100/%23011%20Podcast%20con%20Frank%20de%20Bateria2x100.mp3

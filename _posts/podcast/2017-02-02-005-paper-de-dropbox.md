@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "005. Paper de Dropbox"
+title: "Paper de Dropbox"
 date: 2017-02-02
 image: img/ugeek.png
 podcast_link: https://ia601603.us.archive.org/9/items/005PaperDeDropbox/%23005%20Paper%20de%20Dropbox.mp3

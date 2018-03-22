@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "030. Mumble, VoIP de Software Libre. Nextcloud, Wallabag y kdenlive"
+title: "Mumble, VoIP de Software Libre. Nextcloud, Wallabag y kdenlive"
 date: 2017-03-21
 image: img/ugeek.png
 podcast_link: https://ia601609.us.archive.org/0/items/030Mumble/%23030%20Mumble.mp3

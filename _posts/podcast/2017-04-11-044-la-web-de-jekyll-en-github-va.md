@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "044. La web de Jekyll en GitHub, va tomando forma"
+title: "La web de Jekyll en GitHub, va tomando forma"
 date: 2017-04-11
 image: img/ugeek.png
 podcast_link: https://ia801504.us.archive.org/22/items/044WebDeJekyllEnGithub/%23044%20Web%20de%20Jekyll%20en%20Github.mp3

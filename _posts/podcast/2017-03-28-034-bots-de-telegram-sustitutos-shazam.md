@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "034. Bots de Telegram Sustitutos a Shazam y busqueda de articulos dentro del bot de Pocket"
+title: "Bots de Telegram Sustitutos a Shazam y busqueda de articulos dentro del bot de Pocket"
 date: 2017-03-28
 image: img/ugeek.png
 podcast_link: https://ia801500.us.archive.org/9/items/034BotDeTelegramSustitutoAShazam/%23034%20Bot%20de%20Telegram%20sustituto%20a%20Shazam.mp3

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "013. News y FreshRSS. Gestor de Noticias RSS."
+title: "News y FreshRSS. Gestor de Noticias RSS."
 date: 2017-02-14
 image: img/ugeek.png
 podcast_link: https://ia801601.us.archive.org/21/items/013NewsYFreshRSS.GestorDeNoticiasRSS/%23013%20News%20y%20Fresh%20RSS.%20Gestor%20de%20Noticias%20RSS.mp3

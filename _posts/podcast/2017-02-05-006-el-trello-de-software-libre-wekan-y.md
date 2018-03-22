@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "006. El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema
+title: "El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema
   Kanban en tu servidor."
 date: 2017-02-05
 image: img/ugeek.png
