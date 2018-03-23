@@ -9,7 +9,7 @@ comments: true
 #### Publicado por Angel
 
 
-====================
+
 ![]()  
 
 Cuando tenemos que realizar una tarea muy grande, un modo para motivarse a realizar esta, es dividirla en subtareas.   
