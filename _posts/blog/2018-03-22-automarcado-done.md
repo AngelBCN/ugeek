@@ -9,7 +9,6 @@ comments: true
 #### Publicado por Angel
 
 
-OrgMode: Automarcado DONE al Realizar un Grupo de Tareas
 ====================
 ![]()  
 
