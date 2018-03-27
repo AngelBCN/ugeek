@@ -39,7 +39,9 @@ Ahora entramos en preferencias, y en temas seleccionamos **feedly-theme**.
 Este proceso es el mismo para cambiar cualquier tema. Os dejo el link de este tema y otros más.
 
 + [tt-rss-feedly-theme](https://github.com/levito/tt-rss-feedly-theme)
-+ [Mas Temas de tt-rss](https://git.tt-rss.org/git/tt-rss/wiki/Themes)
++ [Mas Temas de tt-rss](https://git.tt-rss.org/git/tt-rss/wiki/Themes)  
+
+
 <!-- -------------------------------------Aquí abajo los comentarios -------------------------------------------  -->
 ---
 Cuando 
