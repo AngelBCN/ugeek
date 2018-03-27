@@ -14,7 +14,7 @@ comments: true
 
 Te gusta Tiny Tiny RSS, pero si eres de los que sigue tus Feeds favoritos a través de la versión de pc, quizás no te guste mucho la estética Google Reader que trae por defecto.
 
-En este post voy a explicarte cómo dejar Tiny Tiny RSS al más puro estilo Feedly y gracias a este post podrás personalizarlo como quieras.
+En este post voy a explicarte cómo dejar Tiny Tiny RSS al más puro estilo Feedly o gracias a este post podrás personalizarlo como quieras.
 
 - Descargamos este archivo:  
 ```
