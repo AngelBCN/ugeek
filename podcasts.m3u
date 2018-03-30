@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Radiogeek - #Radiogeek – Resumen diario día 29 de marzo 2018 #Podcast
+http://mx.ivoox.com/es/radiogeek-resumen-diario-dia-29-marzo_mf_24952019_feed_1.mp3
+#EXTINF:-1,Coffee Break: Señal y Ruido - Ep156:JWST Retrasado; Multiverso Póstumo de Hawking; Programa de Langlands; Galaxia sin Materia Oscura; Augurios del Sol
+http://www.ivoox.com/ep156-jwst-retrasado-multiverso-postumo-hawking-programa-de_mf_24949370_feed_1.mp3
+#EXTINF:-1,DekNet - OFFTOPIC: Escapa de la TV
+http://api.spreaker.com/download/episode/14414901/offtopic_escapa_de_la_tv.mp3
 #EXTINF:-1,Podcast de KDE España - 04x04 La privacidad en KDE
 http://www.ivoox.com/04x04-la-privacidad-kde_mf_24937512_feed_1.mp3
 #EXTINF:-1,Podcast de KDE España - 04x05 KDE e.V y KDE España, qué son y para qué sirven
@@ -1373,10 +1379,14 @@ http://api.spreaker.com/download/episode/13340085/68_samsung_lanzaria_su_linea_s
 http://www.ivoox.com/024-los-niveles-altitud-gtd_mf_22094466_feed_1.mp3
 #EXTINF:-1,La Hora Maker - LHM127 – TechShop, la gran cadena de espacios de fabricación digital, cierra sus puertas
 http://traffic.libsyn.com/cesargarciasaez/LHM127.mp3
+#EXTINF:-1,Podcast de KDE España - 04x03 Seguridad en KDE - Podcast KDE España
+http://www.ivoox.com/04x03-seguridad-kde-podcast-kde-espana_mf_22090761_feed_1.mp3
 #EXTINF:-1,Podcast de KDE España - 04x02 Novedades de Plasma Mobile y Purism
 http://www.ivoox.com/04x02-novedades-plasma-mobile-purism_mf_22090356_feed_1.mp3
 #EXTINF:-1,Podcast de KDE España - 04x01 Desmontando KDE - 05 Maraton linuxero
 http://www.ivoox.com/04x01-desmontando-kde-05-maraton-linuxero_mf_22090166_feed_1.mp3
+#EXTINF:-1,Podcast de KDE España - 03x07 Resumen Akademy-es 2017 Almería
+http://www.ivoox.com/03x07-resumen-akademy-es-2017-almeria_mf_22089977_feed_1.mp3
 #EXTINF:-1,Podcast dmanuelalonso - cap34 - Android vs iPhone
 http://api.spreaker.com/download/episode/14018870/cap34_android_vs_iphone_mf_22086455_feed_1.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Las "sorpresas" de Facebook: opiĂĄceos, Trump, Brexit...
