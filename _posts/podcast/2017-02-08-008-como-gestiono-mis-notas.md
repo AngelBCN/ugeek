@@ -3,7 +3,7 @@ layout: post
 title: "Como gestiono mis Notas"
 date: 2017-02-08
 image: img/ugeek.png
-podcast_link: https://ia801900.us.archive.org/13/items/008ComoGestionoMisNotas/%23008%20Como%20gestiono%20mis%20notas.mp3
+podcast_link: https://ia801900.us.archive.org/13/items/008ComoGestionoMisNotas/%23008%20%20Como%20gestiono%20mis%20notas.mp3
 tags: [podcast]
 categories: podcast
 comments: true
@@ -15,7 +15,7 @@ Suscribete al Blog :  [RSS del Blog](http://feeds.feedburner.com/uGeekBlog) |
 Suscribete al Podcast :  [RSS](http://feeds.feedburner.com/ugeek) , [ITunes](https://itunes.apple.com/us/podcast/ugeek/id1201421866?mt=2) , [ivoox](https://www.ivoox.com/podcast-ugeek_sq_f1383493_1.html)
 
 <audio controls>
-  <source src="https://ia801900.us.archive.org/13/items/008ComoGestionoMisNotas/%23008%20Como%20gestiono%20mis%20notas.mp3" type="audio/mpeg">
+  <source src="https://ia801900.us.archive.org/13/items/008ComoGestionoMisNotas/%23008%20%20Como%20gestiono%20mis%20notas.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 <!-- ---------------------------------------------------Pon aquí el audio-------------------------------------------------------- -->
