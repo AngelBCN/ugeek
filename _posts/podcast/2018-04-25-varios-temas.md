@@ -5,7 +5,7 @@ date: 2018-04-25 5:40
 author: Angel
 categories: podcast
 image: /img/ugeek.png
-podcast_link: https://ia601506.us.archive.org/24/items/xiaomi-mi-box/xiaomi-mi-box.mp3
+podcast_link: https://ia601506.us.archive.org/8/items/varios-temas/varios-temas.mp3
 tags: [podcast, notas, android, markdown]
 comments: true
 ---
@@ -25,7 +25,7 @@ Suscribete a uGeekRadio : [Feed](http://feeds.feedburner.com/uGeekRadio)
 
 <!-- ------------------------------------- url del podcast -------------------------------------------  -->
 <audio controls>
-  <source src="https://ia601506.us.archive.org/24/items/xiaomi-mi-box/xiaomi-mi-box.mp3">
+  <source src="https://ia601506.us.archive.org/8/items/varios-temas/varios-temas.mp3">
 Your browser does not support the audio element.
 </audio>
 
