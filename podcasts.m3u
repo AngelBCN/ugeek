@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,Astronomía y algo más - Tumores en microgravedad, Astrobiología y Medicina Espacial [Ep.129]
+http://traffic.libsyn.com/astroetal/Ep129.mp3
+#EXTINF:-1,La Hora Maker - LHM150 – Educación STEAM con Nettrice Gaskins
+http://traffic.libsyn.com/cesargarciasaez/LHM150.mp3
+#EXTINF:-1,MOVIMIENTOGEEK - Serramos la semana con noticias , Sabías que todos los terminales #Android traen un gestor de Podcast ? Aquí te lo comentamos
+http://api.spreaker.com/download/episode/14711891/serramos_la_semana_con_noticias_sab_as_que_todos_los_terminales_android_traen_un_gestor_de_podcast_aqu_te_lo_comentamos.mp3
+#EXTINF:-1,Fran Casas - Agradecimiento
+http://www.ivoox.com/agradecimiento_mf_25791054_feed_1.mp3
+#EXTINF:-1,uGeek - Tecnología, Android, Linux, Servidores y mucho más... - MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim.
+https://ia801500.us.archive.org/4/items/plex2_201805/plex2.mp3
 #EXTINF:-1,Aprendiendo GTD podcast productividad - El barrido mental en GTD
 http://www.ivoox.com/barrido-mental-gtd_mf_25788464_feed_1.mp3
 #EXTINF:-1,Bateria2x100 - #187 – (CROSSOVER) ESPECIAL PLEX S00E02
@@ -59,6 +69,8 @@ http://traffic.libsyn.com/astroetal/Ep128.mp3
 http://www.ivoox.com/43-necesitamos-red-10g-cuanto-falta_mf_25690719_feed_1.mp3
 #EXTINF:-1,EntreDevYOps Podcast - EDyO Píldora 3 - Devops Barcelona
 http://podcast.edyo.es/podcast/edyo-pildora3.mp3
+#EXTINF:-1,Fran Casas - Larga vida a Ubuntu
+http://www.ivoox.com/larga-vida-a-ubuntu_mf_25676784_feed_1.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #152: Ataque a myetherwallet, como se podría haber minimizado
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/04/podcast-152-ataque-a-myetherwallet.mp3
 #EXTINF:-1,DekNet - Buscando un router desesperadamente
@@ -215,6 +227,8 @@ http://api.spreaker.com/download/episode/14544487/offtopic_perdidos_en_el_espaci
 http://www.ivoox.com/apple-vs-google-xiaomi-linux-economia-otros_mf_25359150_feed_1.mp3
 #EXTINF:-1,MOVIMIENTOGEEK - #Viernes de Noticias .. hoy Charlamos Sobre Facebook y sus consecuencias
 http://api.spreaker.com/download/episode/14536447/viernes_de_noticias_hoy_charlamos_sobre_facebook_y_sus_consecuencias.mp3
+#EXTINF:-1,Fran Casas - Segunda semana de abril
+http://www.ivoox.com/segunda-semana-abril_mf_25344542_feed_1.mp3
 #EXTINF:-1,Salmorejo Geek - #180 Linux nunca se olvida. Charla tecnológica con RIM, una paisana ex linuxera actual maquera
 http://www.ivoox.com/180-linux-nunca-se-olvida-charla-tecnologica-con_mf_25341592_feed_1.mp3
 #EXTINF:-1,DekNet - Por una seguridad suficiente.
@@ -369,6 +383,8 @@ http://www.ivoox.com/treinta-cinco-donde-hablaremos-lightroom-y_mf_24987468_feed
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/04/podcast-142-vtp.mp3
 #EXTINF:-1,Astronomía y algo más - Galaxias infrarrojas ultraluminosas [Ep.125]
 http://traffic.libsyn.com/astroetal/Ep125.mp3
+#EXTINF:-1,Fran Casas - ¿Es Kaos Arch Linux?
+http://www.ivoox.com/es-kaos-arch-linux_mf_24975554_feed_1.mp3
 #EXTINF:-1,Salmorejo Geek - #178 Bye bye Facebook, otra vez
 http://www.ivoox.com/178-bye-bye-facebook-otra-vez_mf_24972161_feed_1.mp3
 #EXTINF:-1,MOVIMIENTOGEEK - Hoy tratamos la presentación del HuaweiP20Pro , contamos sobre las filtraciones de Motorola ...
@@ -435,6 +451,8 @@ http://www.ivoox.com/radiogeek-resumen-diario-dia-26-marzo_mf_24817305_feed_1.mp
 http://www.ivoox.com/177-mi-lista-blogs-linuxeros-debes_mf_24813540_feed_1.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #140: SDN – Software Defined Networking
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/03/podcast-140-introduccion-a-sdn.mp3
+#EXTINF:-1,Fran Casas - Popurrí
+http://www.ivoox.com/popurri_mf_24788242_feed_1.mp3
 #EXTINF:-1,Mosqueteroweb tecnologia, Linux, Chromebooks - Elección de tablet
 http://www.ivoox.com/eleccion-tablet_mf_24786638_feed_1.mp3
 #EXTINF:-1,Astronomía y algo más - ¿La evolución es Real? con Wikiseba [Ep.124]
@@ -521,6 +539,8 @@ https://cuonda.com/mixxio/explicando-lo-de-cambridge-analytica-y-facebook/838677
 http://tracking.feedpress.it/link/15283/8602730/Bat2x100_182.m4a
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #136: Vim-Bootstrap
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/03/podcast-136-vim-bootstrap.mp3
+#EXTINF:-1,Fran Casas - Esta será la nueva apariencia y el nuevo logo del Blog
+http://www.ivoox.com/esta-sera-nueva-apariencia-nuevo_mf_24594333_feed_1.mp3
 #EXTINF:-1,Ubuntu y otras hierbas - S02E05 Creative Commons & Ubuntu en servidores
 http://www.ivoox.com/s02e05-creative-commons-ubuntu-servidores_mf_24590356_feed_1.mp3
 #EXTINF:-1,uGeek - Tecnología, Android, Linux, Servidores y mucho más... - Crossover con Bateria2x100. MasterClass Plex
@@ -529,6 +549,8 @@ https://ia601507.us.archive.org/9/items/096.MasterClassPlex/096.MasterClass-Plex
 http://traffic.libsyn.com/astroetal/Ep123.mp3
 #EXTINF:-1,MOVIMIENTOGEEK - Hoy tratamos de  nuestra perspectiva de #AndroidP !!!
 http://api.spreaker.com/download/episode/14312151/hoy_tratamos_de_nuestra_perspectiva_de_androidp.mp3
+#EXTINF:-1,Fran Casas - Mil disculpas
+http://www.ivoox.com/mil-disculpas_mf_24573305_feed_1.mp3
 #EXTINF:-1,Salmorejo Geek - #175 GrippoHopping: openSUSE, Ubuntu, Manjaro, Fedora, Anaconda y Yo
 http://www.ivoox.com/175-grippohopping-opensuse-ubuntu-manjaro-fedora-anaconda-y_mf_24569495_feed_1.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Google anuncia oficialmente “Wear OS”
@@ -599,6 +621,8 @@ https://cuonda.com/mixxio/netflix-va-a-por-todas/818542.mp3
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/03/podcast-132-introduccion-a-mpls.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Repaso semanal #3: Familias falsas, la ĂŠtica de bloquear anuncios y drones hipersĂłnicos
 https://cuonda.com/mixxio/repaso-semanal-3-familias-falsas-la-etica-de-bloquear-anuncios-y-drones-hipersonicos/816417.mp3
+#EXTINF:-1,Fran Casas - Pirata tú
+http://www.ivoox.com/pirata-tu_mf_24331163_feed_1.mp3
 #EXTINF:-1,Code Time - Code Time (103): Especial 1000 suscriptores en YouTube + Sorpresas
 http://ar.ivoox.com/es/code-time-103-especial-1000-suscriptores-youtube_mf_24324057_feed_1.mp3
 #EXTINF:-1,DekNet - La jungla de los ONT
@@ -623,6 +647,8 @@ https://archive.org/download/juegosrobotica006/juegosrobotica006.mp3
 http://www.ivoox.com/episodio-22-girls-in-tech-with-react_mf_24275008_feed_1.mp3
 #EXTINF:-1,Radiogeek - #Radiogeek – Resumen diario día 7 de marzo 2018 #Podcast
 http://www.ivoox.com/radiogeek-resumen-diario-dia-7-marzo_mf_24273546_feed_1.mp3
+#EXTINF:-1,Fran Casas - Media GNU/Linux
+http://www.ivoox.com/media-gnu-linux_mf_24271412_feed_1.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #130: IPsec
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/03/podcast-130-ipsec.mp3
 #EXTINF:-1,Aprendiendo GTD podcast productividad - 6 Apps para tu sistema de productividad
@@ -657,6 +683,8 @@ http://mundipad.es/capitulos-podcast-bemoob/099-foromoviles-podcast.mp3
 https://anchor.fm/s/18c0860/podcast/play/213810/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-audio-bank%2Fstaging%2F2018-2-4%2FTomando-Un-Caf--23--Programaci-02e1a6e3b526b.m4a
 #EXTINF:-1,Astronomía y algo más - Enanas Rojas, las estrellas más abundantes y difíciles de estudiar [Ep.121]
 http://traffic.libsyn.com/astroetal/Ep121.mp3
+#EXTINF:-1,Fran Casas - Moscas cojoneras
+http://www.ivoox.com/moscas-cojoneras_mf_24187567_feed_1.mp3
 #EXTINF:-1,DekNet - Configuración de DNS, sencillez y eficacia
 http://api.spreaker.com/download/episode/14189370/configuraci_n_de_dns_sencillez_y_eficacia.mp3
 #EXTINF:-1,La Hora Maker - LHM145 – Más allá de la impresión 3D con Agustín Flowalistik
@@ -699,6 +727,8 @@ http://api.spreaker.com/download/episode/14152791/arrancando_la_semana_trayendo_
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/02/podcast-124-balanceo-de-carga.mp3
 #EXTINF:-1,Compilando Podcast - Podcast 23 – Muy Linux con J.Pomeyrol y Ubucon Europe 2018 con J.Teruelo y S. Quiles
 http://compilando.audio/wp-content/uploads/2018/02/podcast23.mp3
+#EXTINF:-1,Fran Casas - Sigo con los cambios en el blog (Podcast)
+http://www.ivoox.com/sigo-cambios-blog-podcast_mf_24080074_feed_1.mp3
 #EXTINF:-1,NOlegaltech Radio - #009-Robótica
 http://ia600808.us.archive.org/9/items/NolegaltechRadio/009NolegaltechRadio-robtica.mp3
 #EXTINF:-1,Bateria2x100 - #179 – Cambios…
@@ -745,6 +775,8 @@ https://ia601505.us.archive.org/20/items/93.ttRss/93.tt-rss.mp3
 http://api.spreaker.com/download/episode/14113639/google_seerifica_modelos_de_tel_fonos_para_empresas_apple_filtra_nuevos_ipad.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #121: Mikrotik como Firewall
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/02/podcast-121-firewall-con-mikrotik.mp3
+#EXTINF:-1,Fran Casas - Arsys
+http://www.ivoox.com/arsys_mf_23955135_feed_1.mp3
 #EXTINF:-1,Cultura NAS - Álvaro González, nuevo Synology Product Manager para España y Portugal
 http://tracking.feedpress.it/link/14730/8341303/CN_Programa_031.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Apps que vienen y se van
@@ -785,6 +817,8 @@ https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploa
 https://cuonda.com/mixxio/repaso-semanal-1/750300.mp3
 #EXTINF:-1,eDucando Geek - #45 Chromebooks y Chrome OS
 https://archive.org/download/45ChromebookChromeos/45-chromebook-chromeos.mp3
+#EXTINF:-1,Fran Casas - Cambios en el Blog
+http://www.ivoox.com/cambios-blog_mf_23844154_feed_1.mp3
 #EXTINF:-1,Astronomía y algo más - Por qué el cielo es azul, antivacunas, transgénicos y apocalipsis de abejas [Ep.119]
 http://traffic.libsyn.com/astroetal/Episodio119.mp3
 #EXTINF:-1,MOVIMIENTOGEEK - Los Smartphones para Gamers serán la revelación de este año ? Varias marcas están apostando a ésto
@@ -875,6 +909,8 @@ https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploa
 http://www.ivoox.com/ep149-adios-polchinski-lynden-bell-falcon-heavy-fine-tuning_mf_23643429_feed_1.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Filtraciones y genomas
 https://cuonda.com/mixxio/filtraciones-y-genomas/537710.mp3
+#EXTINF:-1,Fran Casas - Explicando sobre Debian Gothic
+http://www.ivoox.com/explicando-sobre-debian-gothic_mf_23627144_feed_1.mp3
 #EXTINF:-1,MOVIMIENTOGEEK - #Google saldrá al mercado con una consola de juegos propia ?
 http://api.spreaker.com/download/episode/13998614/google_saldr_al_mercado_con_una_consola_de_juegos_propia.mp3
 #EXTINF:-1,Programar es una mierda - Episodio 20 - Firebase, Gestores de tareas y Hackathon
@@ -937,6 +973,8 @@ http://feedproxy.google.com/~r/Vaciatubandeja/~5/Vcm8mmXt0hU/6639171.mp3
 http://feedproxy.google.com/~r/Vaciatubandeja/~5/QrR3Zgg74gc/6639170.mp3
 #EXTINF:-1,Vacía tu bandeja - 1: Organízate con Bullet Journal
 http://feedproxy.google.com/~r/Vaciatubandeja/~5/h54KdQK_KDY/6639165.mp3
+#EXTINF:-1,Fran Casas - Vulnerabilidades
+http://www.ivoox.com/vulnerabilidades_mf_23533320_feed_1.mp3
 #EXTINF:-1,Astronomía y algo más - Moléculas en el espacio y AstroQuímica [Ep.117]
 http://traffic.libsyn.com/astroetal/Ep117.mp3
 #EXTINF:-1,La Hora Maker - LHM142 – Escornabot, los robots educativos libres con Pablo Rubio
@@ -969,6 +1007,8 @@ https://anchor.fm/s/18c0860/podcast/play/119407/https%3A%2F%2Fs3-us-west-2.amazo
 https://archive.org/download/44CrearPuntoDeAccesoConPc/44-crear-punto-de-acceso-con-pc.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #105: Formación con José Jiménez
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/01/podcast-105-formacion-con-jose-jimenez.mp3
+#EXTINF:-1,Fran Casas - 100.000 visitas en Enero
+http://www.ivoox.com/100-000-visitas-enero_mf_23451340_feed_1.mp3
 #EXTINF:-1,NOlegaltech Radio - #007-Propiedad del código
 http://ia600808.us.archive.org/9/items/NolegaltechRadio/007NolegaltechRadio-laPropiedadDelCdigo.mp3
 #EXTINF:-1,Web Reactiva - WR 20: Sitios estáticos y datos dinámicos con Gatsby
@@ -997,6 +1037,8 @@ http://www.ivoox.com/romper-monopolios-internet-va-a_mf_23407196_feed_1.mp3
 http://mundipad.es/capitulos-podcast-bemoob/098-foromoviles-podcast.mp3
 #EXTINF:-1,EntreDevYOps Podcast - EDyO píldora 2 - Migrando la web a Hugo.
 http://podcast.edyo.es/podcast/edyo-pildora2.mp3
+#EXTINF:-1,Fran Casas - Poca empatía
+http://www.ivoox.com/poca-empatia_mf_23396050_feed_1.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Kernel: NiĂąos, Mentiras y Cintas de VĂ­deo (Audio corregido)
 http://tapewrite.com/REST/feed/@alexbarredo/5a6cca219e91b02b750c60e6.mp3
 #EXTINF:-1,Compilando Podcast - Especial Mesa Redonda : Estado actual del software libre y GNU/Linux, terminado 2017 y comenzando 2018.
@@ -1027,6 +1069,8 @@ http://www.ivoox.com/37-me-compro-nas-o-monto-un_mf_23349931_feed_1.mp3
 http://api.spreaker.com/download/episode/13882670/samsung_presentara_el_galaxy_s9_el_25_de_febrero_en_el_mwc2018.mp3
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #101: Metarouters de Mikrotik
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/01/podcast-101-metarouters-mikrotik.mp3
+#EXTINF:-1,Fran Casas - Sobre Debian y un proyecto en mente
+http://www.ivoox.com/sobre-debian-proyecto-mente_mf_23343305_feed_1.mp3
 #EXTINF:-1,reflex podcast - #29 Youtube, los creadores emosido engañado
 http://www.ivoox.com/29-youtube-creadores-emosido-enganado_mf_23340586_feed_1.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - El HomePod no es un home run
@@ -1059,6 +1103,8 @@ http://ar.ivoox.com/es/anecdotas-giordanicas-5-como-perdi-2tb-informacion_mf_242
 http://tracking.feedpress.it/link/15283/8070529/Bat2x100_176.m4a
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #99: Usar herramientas de monitorización en otros campos
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/01/podcast-99-monitorizacion-otros-campos.mp3
+#EXTINF:-1,Fran Casas - Una parte oscura de mi vida
+http://www.ivoox.com/una-parte-oscura-mi-vida_mf_23290625_feed_1.mp3
 #EXTINF:-1,NOlegaltech Radio - Especial-Tendencias 2018, jugamos a ser futurólogos
 http://ia600808.us.archive.org/9/items/NolegaltechRadio/Especial-tendencias2018.mp3
 #EXTINF:-1,DekNet - PODCAST: En defensa de los oyentes
@@ -1111,6 +1157,8 @@ http://api.spreaker.com/download/episode/13829195/skygofree_un_trollano_en_andro
 https://anchor.fm/s/18c0860/podcast/play/105561/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-data%2Fstationexports%2Fpodcasts%2FPatrones-de-dise-o--0256531c08388.m4a
 #EXTINF:-1,Podcast de Eduardo Collado - Podcast #96: Conceptos básicos de conexiones TCP y UDP
 https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/01/podcast-96-conceptos-tcp-udp.mp3
+#EXTINF:-1,Fran Casas - Dar el salto
+http://www.ivoox.com/dar-salto_mf_23210077_feed_1.mp3
 #EXTINF:-1,Code on the rocks - Recap 2017 - Noticias Tech
 http://api.spreaker.com/download/episode/13825099/recap_2017_noticias_tech.mp3
 #EXTINF:-1,Mosqueteroweb tecnologia, Linux, Chromebooks - Canal de Telegram, Chromebooks, Rifa y Encuesta
