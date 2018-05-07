@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,Podcast dmanuelalonso - cap40 - Ubucon 2018 y Ubuntu 18.04 Bionic
+http://api.spreaker.com/download/episode/14719760/cap40_ubucon_2018.mp3
+#EXTINF:-1,Podcast dmanuelalonso - cap40 - Ubucon 2018 y Ubuntu 18.04 Bionic
+http://api.spreaker.com/download/episode/14719781/cap40_ubucon_2018_ubuntu_18_04_bionic_mf_25814836_feed_1.mp3
+#EXTINF:-1,Podcast de Eduardo Collado - Podcast #156: Túneles con sshuttle
+https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/05/podcast-156-sshuttle.mp3
+#EXTINF:-1,Ubuntu y otras hierbas - S02E06 UbuCon Europe 2018
+http://www.ivoox.com/s02e06-ubucon-europe-2018_mf_25801881_feed_1.mp3
 #EXTINF:-1,Astronomía y algo más - Tumores en microgravedad, Astrobiología y Medicina Espacial [Ep.129]
 http://traffic.libsyn.com/astroetal/Ep129.mp3
 #EXTINF:-1,La Hora Maker - LHM150 – Educación STEAM con Nettrice Gaskins
