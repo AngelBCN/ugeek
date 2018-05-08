@@ -21,12 +21,12 @@ comments: true
 
 ### Instala primero algunos paquetes que necesitamos
 ```
-sudo install apt-transport-https ca-certificates curl gnupg2 software-properties-common
+sudo apt install apt-transport-https ca-certificates curl gnupg2 software-properties-common
 ```  
 
 ### Obtener la clave de firma Docker para paquetes
 ```
-sudo curl -fsSL https://download.docker.com/linux/$(. /etc/o s-release; echo "$ID")/gpg | sudo apt-key add -
+sudo curl -fsSL https://download.docker.com/linux/$(. /etc/os-release; echo "$ID")/gpg | sudo apt-key add -
 ```  
 
 ### Añadimos los repositorios oficiales
