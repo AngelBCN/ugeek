@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Instalar Docker y Portainer en Raspbian"
-date: 2018-05-08 6:00 
+date: 2018-05-08
 tags: [blog, docker, raspberry, portainer]
 categories: servidor
 comments: true
