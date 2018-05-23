@@ -9,6 +9,11 @@ podcast_link: https://ia601506.us.archive.org/5/items/docker-3/docker-3.mp3
 tags: [podcast, docker, raspberry, servidor]
 comments: true
 ---
+![docker](http://telegra.ph/file/28cdba433131c4ee2bf76.jpg)  
+Hablando un poco en lo que ando liado...
+
+
+
 [https://ugeek.github.io/](https://ugeek.github.io/)
 #### Publicado por Angel  
 Suscribete al Blog :  [RSS del Blog](http://feeds.feedburner.com/uGeekBlog) |
@@ -31,7 +36,7 @@ Your browser does not support the audio element.
 
 
 
-![docker](http://telegra.ph/file/28cdba433131c4ee2bf76.jpg)
+
 
 <!-- -------------------------------------Descripción del podcast -------------------------------------------  -->
 
