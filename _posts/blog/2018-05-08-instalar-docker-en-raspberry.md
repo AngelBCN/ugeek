@@ -7,8 +7,6 @@ categories: servidor
 comments: true
 ---
 ![docker](https://i.imgur.com/9DMx0DS.png)
-
-<!-- -------------------------------------Descripción del podcast -------------------------------------------  -->
 #### Publicado por Angel
 
 
