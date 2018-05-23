@@ -6,15 +6,11 @@ tags: [blog, docker, raspberry, portainer]
 categories: servidor
 comments: true
 ---
-#### Publicado por Angel
-
-<!-- -------------------------------------Imagen -------------------------------------------  -->
-
-
-
 ![docker](https://i.imgur.com/9DMx0DS.png)
 
 <!-- -------------------------------------Descripción del podcast -------------------------------------------  -->
+#### Publicado por Angel
+
 
 ## Instalación de Docker en Raspbian.
 
