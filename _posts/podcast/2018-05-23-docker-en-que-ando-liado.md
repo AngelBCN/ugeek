@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker. En que ando liado"
+title: "Docker. En que ando liado..."
 date: 2018-05-23 18:45
 author: Angel
 categories: podcast
