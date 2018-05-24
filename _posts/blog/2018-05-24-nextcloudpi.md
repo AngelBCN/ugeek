@@ -35,7 +35,7 @@ Si no tenemos una ip pública estática, recomiendo el utilizar un servicio como
 
 Ahora vamos a ip::4443 y vamos a crear el certificado en el apartado: Let's Encrypt.  
 
-Abriremos los puertos 443 y 80 de nuestro Router, dirigiendo el tráfico a la ip local de nuestra Raspberry y clicaremos "Ejecutar".  
+Abriremos los puertos 443 y 80 de nuestro Router, dirigiendo el tráfico a la ip local de nuestra Raspberry y clicaremos **Ejecutar**.  
 
 De forma automática, nos generará el certificado por 3 meses.  
 
