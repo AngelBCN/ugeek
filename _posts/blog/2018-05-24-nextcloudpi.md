@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "NextcloudPi. Nextcloud en Raspbian con Docker"
-date: 2018-05-08
+date: 2018-05-24
 tags: [blog, docker, raspberry, portainer]
 categories: servidor
 comments: true
