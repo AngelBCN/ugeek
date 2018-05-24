@@ -13,9 +13,9 @@ comments: true
 
 Tal como [os prometí en el podcast](https://ugeek.github.io/docker-en-que-ando-liado/), entro más al detalle con la instalación del Docker oficial de Nextcloud para Raspberry. [NextcloudPi](https://ownyourbits.com/nextcloudpi/).  
 
-Si tenemos un servidor como apache2, vamos a detener el servicio para no utilizar el puerto 80, que este utiliza por defecto.  
+Si tenemos un servidor como apache2, vamos a detener el servicio para no utilizar el puerto 80, que éste utiliza por defecto.  
 
-Tendrás que modificar en este comando, el usuario **pi** por tu usuario y la ip **192.168.1.100** por la ip local de tu raspberry.  
+Tendrás que modificar en este comando el usuario **pi** por tu usuario y la ip **192.168.1.100** por la ip local de tu raspberry.  
 
 ```
 sudo docker run -d -p 4443:4443 -p 443:443 -p 80:80 -v /home/pi/docker/nextcloudplus/:/data --name nextcloudpi ownyourbits/nextcloudplus-armhf 192.168.1.100
@@ -25,7 +25,7 @@ sudo docker run -d -p 4443:4443 -p 443:443 -p 80:80 -v /home/pi/docker/nextcloud
 ## Iniciar Nextcloud
 Una vez montado, nos conectaremos a nuestra ip:443. Nos aparecerá una web con el usuario ncp y dos contraseñas creadas de forma aleatoria.  
 
-Guardamos las 2 contraseñas y le damos a activar en la parte inferior.  
+Guardamos las 2 contraseñas y le damos a **Activar** en la parte inferior.  
 
 Una contraseña será para la web de administración de **NextcloudPi** por el puerto 4443 y la otra contraseña será para el servicio **Nextcloud** por el puerto 80 o 443.  
 
