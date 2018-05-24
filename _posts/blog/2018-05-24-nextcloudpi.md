@@ -15,8 +15,10 @@ Tal como [os prometí en el podcast](https://ugeek.github.io/docker-en-que-ando-
 
 Si tenemos un servidor como apache2, vamos a detener el servicio para no utilizar el puerto 80, que este utiliza por defecto.  
 
+Tendrás que modificar en este comando, el usuario **pi** por tu usuario y la ip **192.168.1.100** por la ip local de tu raspberry.  
+
 ```
-sudo docker run -d -p 4443:4443 -p 443:443 -p 80:80 -v /home/pi/docker/nextcloudplus/:/data --name nextcloudpi ownyourbits/nextcloudplus-armhf 192.168.1.101
+sudo docker run -d -p 4443:4443 -p 443:443 -p 80:80 -v /home/pi/docker/nextcloudplus/:/data --name nextcloudpi ownyourbits/nextcloudplus-armhf 192.168.1.100
 ```  
 
 
