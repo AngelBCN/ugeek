@@ -1,0 +1,87 @@
+---
+layout: post
+title: "Servidor de ebooks con Calibre "
+date: 2018-05-25 5:40
+author: Angel
+categories: podcast
+image: /img/ugeek.png
+podcast_link: https://ia801505.us.archive.org/20/items/calibre_201805/calibre.mp3
+tags: [podcast, calibre, servidor]
+comments: true
+---
+Como instalar un servidor de ebooks en tu Raspberry Pi con [Calibre](https://calibre-ebook.com/).  
+<audio controls>
+  <source src="https://ia801505.us.archive.org/20/items/calibre_201805/calibre.mp3">
+Your browser does not support the audio element.
+</audio>
+
+[https://ugeek.github.io/](https://ugeek.github.io/)
+
+Suscribete al Blog :  [RSS del Blog](http://feeds.feedburner.com/uGeekBlog) |
+
+Suscribete al Podcast :  [RSS](http://feeds.feedburner.com/ugeek) , [ITunes](https://itunes.apple.com/us/podcast/ugeek/id1201421866?mt=2) , [ivoox](https://www.ivoox.com/podcast-ugeek_sq_f1383493_1.html)  
+
+Suscribete a uGeekRadio : [Feed](http://feeds.feedburner.com/uGeekRadio)  
+
+#### Publicado por Angel  
+
+<br>
+
+<!-- ------------------------------------- url del podcast -------------------------------------------  -->
+
+
+<!-- -------------------------------------Imagen -------------------------------------------  -->
+
+![docker](http://telegra.ph/file/8b529246f9f9af56e721b.png)
+
+
+
+<!-- -------------------------------------Descripción del podcast -------------------------------------------  -->
+
+[Calibre](https://calibre-ebook.com/)
+
+<!-- -------------------------------------Aquí abajo los Comentarios -------------------------------------------  -->
+
+
+
+  ---
+
+[Canal en Telegram](https://t.me/uGeek)  
+
+[Grupo en Telegram](https://t.me/uGeekPodcast)  
+
+[uGeekPodcast en Twitter](https://twitter.com/ugeekpodcast)  
+
+[YouTube](https://www.youtube.com/channel/UCVmGqdwOeswJ55IFmsYNlww)  
+
+Escucha más Podcast en el Reproductor de la web [►Play](https://ugeek.github.io/podcasts/)  
+
+
+Tags: {% assign sorted_tags = page.tags | sort %} {% for tag in sorted_tags %} , <span class="tag"><a href="/tag#{{ tag }}">{{ tag }}</a></span> {% endfor %},
+
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-angelbcn-github-io-ugeek.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %}
+
+<script id="dsq-count-scr" src="//https-angelbcn-github-io-ugeek.disqus.com/count.js" async></script>
