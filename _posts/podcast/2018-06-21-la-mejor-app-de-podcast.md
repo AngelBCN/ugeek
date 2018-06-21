@@ -9,7 +9,7 @@ podcast_link: https://anchor.fm/s/106db04/podcast/play/790858/https%3A%2F%2Fs3-u
 tags: [podcast, android, aplicaciones]
 comments: true
 ---
-Llegan los Podcast a Plex. Interactúa gráficamente con tus scripts gracias a Zenity y Yad. Anchor y mucho mas...
+Varias aplicaciones de podcast que he probado. Estas son las que más me han gustado...
 <audio controls>
   <source src="https://anchor.fm/s/106db04/podcast/play/790858/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fanchor-audio-bank%2Fstaging%2F2018-5-21%2FLa-Mejor-Aplicaci-n-de-Podcast-2e63a31720291.m4a">
 Your browser does not support the audio element.
