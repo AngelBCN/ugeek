@@ -6,7 +6,7 @@ author: Angel
 categories: podcast
 image: /img/ugeek.png
 podcast_link: https://anchor.fm/s/106db04/podcast/play/858205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-6%2F3-Aplicaciones-de-Mensajer-a-c-505dbc31d87a8.m4a
-tags: [podcast, android, mensajería, nextcloud, matrix]
+tags: [podcast, android, mensajería, nextcloud, matrix, podcast-feedburner]
 comments: true
 ---
 En este podcast os hablo de tres aplicaciones y servicios, que puedes instalar en tu raspberry y móvil para mantener al máximo tu privacidad
