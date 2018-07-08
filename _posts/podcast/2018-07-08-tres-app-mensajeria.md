@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tres app's de Mensajería con Total Privacidad"
-date: 2018-07-06 7:00
+date: 2018-07-08 17:00
 author: Angel
 categories: podcast
 image: /img/ugeek.png
