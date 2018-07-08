@@ -3,7 +3,7 @@ layout: post
 title: "Tres app's de Mensajería con Total Privacidad"
 date: 2018-07-06 7:00
 author: Angel
-categories: podcast
+categories: podcast, podcast-feedburner
 image: /img/ugeek.png
 podcast_link: https://anchor.fm/s/106db04/podcast/play/858205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-6%2F3-Aplicaciones-de-Mensajer-a-c-505dbc31d87a8.m4a
 tags: [podcast, android, mensajería, nextcloud, matrix, podcast-feedburner]
