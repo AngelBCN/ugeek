@@ -11,7 +11,6 @@ comments: true
 ---
 
 En el podcast de hoy, explico cómo navegar sin publicidad y mis primeras impresiones con mi nuevo router Xiaomi y OpenWrt. 
-
 <audio controls>
 <source src="https://anchor.fm/s/106db04/podcast/play/882439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-10%2F-Existe-un-Internet-sin-Public-12179a4adf73f.m4a">
 Your browser does not support the audio element.
