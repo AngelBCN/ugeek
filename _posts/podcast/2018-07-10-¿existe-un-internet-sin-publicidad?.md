@@ -1,24 +1,25 @@
 ---
 layout: post
 title: "¿Existe un Internet sin Publicidad?"
-date: 2018-07-10 20:23
+date: 2018-07-10 20:34
 author: Angel
 categories: podcast
 image: /img/ugeek.png
-podcast_link: https://anchor.fm/s/106db04/podcast/play/882439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-10%2F-Existe-un-Internet-sin-Public-5d66b93e54531.m4a
+podcast_link: https://anchor.fm/s/106db04/podcast/play/882439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-10%2F-Existe-un-Internet-sin-Public-12179a4adf73f.m4a
 tags: [podcast]
 comments: true
 ---
 
-https://elblogdelazaro.gitlab.io//articles/openwrt-bloqueando-la-publicidad-desde-el-fichero-hosts/
+En el podcast de hoy, explico cómo navegar sin publicidad y mis primeras impresiones con mi nuevo router Xiaomi y OpenWrt. 
 
-https://www.wireguard.com/
+https://elblogdelazaro.gitlab.io//articles/openwrt-bloqueando-la-publicidad-desde-el-fichero-hosts/ 
 
+https://www.wireguard.com/ Feed de Dame un Minuto: 
 
-Feed de Dame un Minuto: https://anchor.fm/s/99afc0/podcast/rss
+https://anchor.fm/s/99afc0/podcast/rss
 
 <audio controls>
-src="https://anchor.fm/s/106db04/podcast/play/882439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-10%2F-Existe-un-Internet-sin-Public-5d66b93e54531.m4a">
+src="https://anchor.fm/s/106db04/podcast/play/882439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-10%2F-Existe-un-Internet-sin-Public-12179a4adf73f.m4a">
 Your browser does not support the audio element.
 </audio>
 
