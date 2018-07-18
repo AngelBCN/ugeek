@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,Web Reactiva - WR 44: Retrospectiva de un año increíble
+http://api.spreaker.com/download/episode/15271704/webreactiva_podcast_44.mp3
+#EXTINF:-1,La Tecnología para todos - Podcast Maker Veraniego (El regreso)
+http://api.spreaker.com/download/episode/15266176/podcast148.mp3
+#EXTINF:-1,Radiogeek - #Radiogeek - Otra vez Telefónica con un grave problema de seguridad
+http://www.ivoox.com/radiogeek-otra-vez-telefonica-grave_mf_27091473_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time (121): ¿Cómo usan la memoria los lenguajes de programación?
+http://www.ivoox.com/code-time-121-como-usan-memoria-los_mf_27084709_feed_1.mp3
+#EXTINF:-1,Astronomía y algo más - Captan agujero negro destruyendo una estrella [Ep.138]
+http://traffic.libsyn.com/astroetal/Ep138.mp3
+#EXTINF:-1,Mosqueteroweb tecnologia, Linux, Chromebooks - Android 8. Directos inminentes
+http://www.ivoox.com/android-8-directos-inminentes_mf_27082664_feed_1.mp3
+#EXTINF:-1,Podcast dmanuelalonso - cap44 - Google en Linux
+http://api.spreaker.com/download/episode/15266859/cap44_google_linux_mf_27084847_feed_1.mp3
+#EXTINF:-1,Podcast Linux - #56 Linux Connexion con Linux Center
+http://www.ivoox.com/56-linux-connexion-linux-center_mf_27075138_feed_1.mp3
 #EXTINF:-1,Salmorejo Geek - #200 Mi Lenovo H520S y el instinto de supervivencia
 http://www.ivoox.com/200-mi-lenovo-h520s-instinto-de_mf_27069408_feed_1.mp3
 #EXTINF:-1,RadioDev - Editor vs IDE
