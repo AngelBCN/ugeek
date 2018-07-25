@@ -3,7 +3,7 @@ layout: post
 title: "Paper de Dropbox"
 date: 2017-02-02
 image: img/ugeek.png
-podcast_link: https://ia601603.us.archive.org/9/items/005PaperDeDropbox/%23005%20Paper%20de%20Dropbox.mp3
+podcast_link: https://anchor.fm/s/106db04/podcast/play/981392/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-6-25%2F3767278-44100-1-d5f892a1c4a2d.mp3
 tags: [podcast]
 categories: podcast
 comments: true
@@ -15,7 +15,7 @@ Suscribete al Blog :  [RSS del Blog](http://feeds.feedburner.com/uGeekBlog) |
 Suscribete al Podcast :  [RSS](http://feeds.feedburner.com/ugeek) , [ITunes](https://itunes.apple.com/us/podcast/ugeek/id1201421866?mt=2) , [ivoox](https://www.ivoox.com/podcast-ugeek_sq_f1383493_1.html)
 
 <audio controls>
-  <source src="https://ia601603.us.archive.org/9/items/005PaperDeDropbox/%23005%20Paper%20de%20Dropbox.mp3" type="audio/mpeg">
+  <source src="https://anchor.fm/s/106db04/podcast/play/981392/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-6-25%2F3767278-44100-1-d5f892a1c4a2d.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 <!-- ---------------------------------------------------Pon aquí el audio-------------------------------------------------------- -->
