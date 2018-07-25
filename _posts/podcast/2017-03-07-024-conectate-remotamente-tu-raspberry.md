@@ -8,16 +8,18 @@ tags: [podcast]
 categories: podcast
 comments: true
 ---
+<audio controls>
+  <source src="https://ia601605.us.archive.org/10/items/024ConectateRemotamenteATuRaspberryPiCondataplicity/%23024%20Conectate%20remotamente%20a%20tu%20Raspberry%20Pi%20con%20%22dataplicity%22%20.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 #### Publicado por Angel
 
 Suscribete al Blog :  [RSS del Blog](http://feeds.feedburner.com/uGeekBlog) |
 
 Suscribete al Podcast :  [RSS](http://feeds.feedburner.com/ugeek) , [ITunes](https://itunes.apple.com/us/podcast/ugeek/id1201421866?mt=2) , [ivoox](https://www.ivoox.com/podcast-ugeek_sq_f1383493_1.html)
 
-<audio controls>
-  <source src="https://ia601605.us.archive.org/10/items/024ConectateRemotamenteATuRaspberryPiCondataplicity/%23024%20Conectate%20remotamente%20a%20tu%20Raspberry%20Pi%20con%20%22dataplicity%22%20.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+
 <!-- ---------------------------------------------------Pon aquí el audio-------------------------------------------------------- -->
 
 
