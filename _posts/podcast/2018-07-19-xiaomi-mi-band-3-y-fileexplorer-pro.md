@@ -13,7 +13,7 @@ comments: true
 En el podcast de hoy, voy a hablaros de mi experiencia con la Xiaomi Mi Band 3 y recomendaros FileExplorer Pro, temporalmente gratuita para Android. 
 
 <audio controls>
-<source src='https://anchor.fm/s/106db04/podcast/play/933386/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-19%2FXiaomi-Mi-Band-3-y-FileExplore-701e512fb083e.m4a''>
+<source src='https://anchor.fm/s/106db04/podcast/play/933386/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-19%2FXiaomi-Mi-Band-3-y-FileExplore-701e512fb083e.m4a'>
 Your browser does not support the audio element.
 </audio>
 
