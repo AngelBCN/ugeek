@@ -23,6 +23,7 @@ https://gadgetbridge.org/
 
 http://cn.amazfit.com/count-down.html
 
+https://play.google.com/store/apps/details?id=ru.gelin.android.weather.notification
 
 https://gadgetbridge.org/
 
