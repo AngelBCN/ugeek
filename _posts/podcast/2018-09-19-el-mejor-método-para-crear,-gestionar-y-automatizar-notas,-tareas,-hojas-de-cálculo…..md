@@ -6,7 +6,7 @@ author: Angel
 categories: podcast
 image: /img/ugeek.png
 podcast_link: https://anchor.fm/s/106db04/podcast/play/1381962/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-8-19%2FEl-mejor-M-todo-para-Crear--Ge-8e54d929930c1.m4a
-tags: [podcast]
+tags: [podcast, emacs, orgmode, texto plano, markdown]
 comments: true
 ---
 
