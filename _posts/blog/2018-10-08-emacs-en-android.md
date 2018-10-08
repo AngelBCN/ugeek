@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Emacs en Android"
-date: 2018-09-09
+date: 2018-10-09
 tags: [blog, emacs, android, termux]
 categories: emacs
 comments: true
