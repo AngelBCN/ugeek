@@ -7,17 +7,19 @@ categories: emacs
 comments: true
 ---
 
-Podemos utilizar Emacs en Android gracias a Termux a través de la Terminal. La novedad es que desde hace mas o menos un mes, hay un nuevo paquete x11 para Termux llamado emacs-x. Gracias a la combinación de 3 aplicaciones, [Termux](https://play.google.com/store/apps/details?id=com.termux), [Hacker's keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard) y [XServer XSDL](https://play.google.com/store/apps/details?id=x.org.server), podremos utilizar Emacs también de forma gráfica.
+Podemos utilizar Emacs en Android gracias a Termux a través de la Terminal. La novedad es que desde hace mas o menos un mes, hay un nuevo paquete x11 para Termux llamado emacs-x. Gracias a la combinación de 3 aplicaciones, [Termux](https://play.google.com/store/apps/details?id=com.termux), [Hacker's keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard) y [XServer XSDL](https://play.google.com/store/apps/details?id=x.org.server), podremos utilizar Emacs también de forma gráfica.  
+
+Esto abre la posibilidad de utilizar Emacs tanto en tablets, Android Tv... del mismo modo como lo haríamos en un PC.  
+
 
 ![Emacs para Android](https://i.imgur.com/fRNI5Uv.png)
 
-Esto abre la posibilidad de utilizar Emacs tanto en tablets, Android Tv... del mismo modo como lo haríamos en un PC.
 
 
 Escribimos en Termux:
 
 ```
-pkg upgrade,
+pkg upgrade
 pkg install x11-repo
 pkg install emacs-x
 ```
