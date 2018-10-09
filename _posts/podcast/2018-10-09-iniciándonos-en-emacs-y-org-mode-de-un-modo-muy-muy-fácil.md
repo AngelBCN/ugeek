@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil"
+title: "Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil."
 date: 2018-10-09 21:26
 author: Angel
 categories: podcast
