@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Iniciándonos a Emacs y Org Mode de un modo sencillo"
+title: "Post: Iniciándonos a Emacs y Org Mode de un modo sencillo"
 date: 2018-10-09
 tags: [blog, emacs, orgmode]
 categories: emacs
