@@ -12,7 +12,7 @@ Tomo de Ejemplo este Plugin, pero si veis cualquier otro que os guste, siguiendo
 
 ## Configurar Plugins
 
-1.  Creamos la carpeta para alojar Vundle y clonamos el repositorio de GitHub:
+- Creamos la carpeta para alojar Vundle y clonamos el repositorio de GitHub:
 
 Creamos la carpeta **bundle**, donde irán las carpetas de los plugins:
 `mkdir ~/.vim/bundle`
@@ -20,7 +20,7 @@ Creamos la carpeta **bundle**, donde irán las carpetas de los plugins:
 Clonamos el repositorio de GitHub, en la ruta que especificamos a continuación:
 `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
-1.  Añadimos las siguientes líneas en el archivo de configuración de Vim (.vimrc):
+- Añadimos las siguientes líneas en el archivo de configuración de Vim (.vimrc):
     Los comentarios van con comillas delante **"**
 
 `vim ~/.vimrc`
@@ -76,18 +76,18 @@ Pegamos este contenido:
 
 Para instalar el módulo con Vundle, añadimos la ruta del Plugin, en este caso la ruta de GitHub, al archivo .vimrc, después de **Plugin 'VundleVim/Vundle.vim'**.
 
-1.  Copiamos **Plugin 'jceb/vim-orgmode'**, en el archivo de configuración de Vim **.vimrc** despues de Plugin 'VundleVim/Vundle.vim'
+- Copiamos **Plugin 'jceb/vim-orgmode'**, en el archivo de configuración de Vim **.vimrc** despues de Plugin 'VundleVim/Vundle.vim'
 
     Plugin 'VundleVim/Vundle.vim'
     Plugin 'jceb/vim-orgmode'
 
-2.  Instalamos el Plugins o Plugins, si hubiéramos añadido mas de uno, con el siguiente comando
+- Instalamos el Plugins o Plugins, si hubiéramos añadido mas de uno, con el siguiente comando
 
 `vim +PluginInstall`
 
 **Nota:** También lo podríamos hacer entrando en Vim y escribiendo **:PluginInstall**
 
-3.  Veremos como se abre Vim y comenzaran a descargarse el Plugin o Plugins que hayamos añadido en el archivo de configuración.
+- Veremos como se abre Vim y comenzaran a descargarse el Plugin o Plugins que hayamos añadido en el archivo de configuración.
 
 **Nota:** Podemos consultar donde esta el módulo, introduciendo en Vim **:h vundle**.
 
@@ -96,8 +96,8 @@ Para instalar el módulo con Vundle, añadimos la ruta del Plugin, en este caso 
 
 Para desinstalar los Plugins y eliminar las carpetas de los mismos:
 
-1.  Borramos del archivo **.vimrc** los Plugins a desinstalar
-2.  Ejecutamos el siguiente comando, que a diferencia del anterior en el ejemplo de instalación, podriamos añadir **+qall**, que significa que una vez ejecutado, saldrá de Vim 
+- Borramos del archivo **.vimrc** los Plugins a desinstalar
+- Ejecutamos el siguiente comando, que a diferencia del anterior en el ejemplo de instalación, podriamos añadir **+qall**, que significa que una vez ejecutado, saldrá de Vim 
 
 `vim +PluginClean +qall`
 
