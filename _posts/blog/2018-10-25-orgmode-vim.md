@@ -6,7 +6,7 @@ tags: [blog, emacs, orgmode, vim, vundle]
 categories: emacs
 comments: true
 ---
-Yo soy de la opinión que el mejor modo de utilizar Org Mode es mediante Emacs. Aun así, para aquellos que se resisten inicialmente y conocen los atajos de teclado de Vim, os muestro paso a paso como Instalar el Plugin.   
+Soy de la opinión que el mejor modo de utilizar Org Mode es mediante Emacs. Aun así, para aquellos que se resisten inicialmente y conocen los atajos de teclado de Vim, os muestro paso a paso como Instalar el Plugin.   
 Tomo de Ejemplo este Plugin, pero si veis cualquier otro que os guste, siguiendo los mismos pasos, también podréis instalarlo.
 
 
