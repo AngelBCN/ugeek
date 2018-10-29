@@ -7,8 +7,6 @@ categories: emacs
 comments: true
 ---
 
-# Con Emacs, también podemos editar Markdown
-
 He hablado de como crear tus archivos Org Mode mediante Emacs, pero&#x2026; ¿Realmente vale la pena invertir tiempo en aprender los atajos de teclado y el funcionamiento de Emacs?.
 Por supuesto que Sí!!! Y es que Emacs no solo funciona con Org Mode, sino que con cualquier sintaxis o cosa que se os ocurra.  
 Hoy vamos a utilizar Emacs como editor de Markdown.
