@@ -7,7 +7,7 @@ categories: emacs
 comments: true
 ---
 
-He hablado de como crear tus archivos Org Mode mediante Emacs, pero&#x2026; ¿Realmente vale la pena invertir tiempo en aprender los atajos de teclado y el funcionamiento de Emacs?.
+He hablado de como crear tus archivos Org Mode mediante Emacs, pero&#x2026; ¿Realmente vale la pena invertir tiempo en aprender los atajos de teclado y el funcionamiento de Emacs?.  
 Por supuesto que Sí!!! Y es que Emacs no solo funciona con Org Mode, sino que con cualquier sintaxis o cosa que se os ocurra.  
 Hoy vamos a utilizar Emacs como editor de Markdown.
 Voy a dividir el post en 2 partes, resaltado de sintaxis y previsulización del documento que estamos editando con refresco instantáneo. 
@@ -37,7 +37,8 @@ Ahora si queremos previsualizar el documento, solo tenemos que introducir en Ema
 M-x flymd-flyit
 ```
 
-Esto, nos lanzará un archivo temporal ya abrirá nuestro navegador web, para previsualizar el documento.
+Esto, nos lanzará un archivo temporal y abrirá nuestro navegador web, para previsualizar el documento.
+
 Por defecto se refresca en tiempo real y que podemos deshabilitar
 
 
