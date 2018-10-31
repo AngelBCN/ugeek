@@ -9,7 +9,7 @@ comments: true
 
 He instalado Kde Connect en Lubuntu y Mint con el escritorio i3. Os detallo como instalarlo paso a paso.  
 
-Hasta el paso 3, ya estaría listo gracias a kdeconnect-cli mediante interfaz gráfica. Pero si te animas con la terminal, llega hasta el final del post.  
+Hasta el paso 3, ya estaría listo gracias a indicator-kdeconnect mediante interfaz gráfica. Pero si te animas con la terminal, llega hasta el final del post.  
 
 Recordaros que Kde Connect está tanto en Google Play como en F-Droid para Android.  
 
@@ -32,7 +32,7 @@ sudo apt install kdeconnect indicator-kdeconnect
 
 3) Buscará dentro de nuestra red local los dispositivos con Kde Connect. Empareja tu dispositivo y... Ya está!! Si quieres seguir con la terminal, sigue leyendo.  
 
-4) Vamos ha hacer el emparejamiento desde la Terminal. El comando kdeconnect-cli --help nos mostrará todos los comandos disponibles.  
+4) Vamos ha hacer el emparejamiento desde la Terminal. El comando **kdeconnect-cli - -help** nos mostrará todos los comandos disponibles.  
 
 5) Vamos a listar dispositivos disponibles en nuestra red local desde la terminal  
 
