@@ -35,42 +35,8 @@ Recordar verificar que la conversión se ha hecho correctamente.
 
 
 
-
-
-
 #### Publicado por Angel 
 <!-- -------------------------------------Aquí abajo los comentarios -------------------------------------------  -->
----
-
-
-# Convertir de Markdown a Org Mode gracias a Pandoc
-
-Vamos a convertir nuestros archivos Markdown a Org Mode gracias a [Pandoc](https://pandoc.org/).
-Para ello, primero necesitamos instalar Pandoc en nuestro Ubuntu:
-
-```
-sudo apt install pandoc
-```
-
-Ahora tenemos 2 posibilidades, transformar únicamente un archivo .md a .org, o aprovechando la magnífica gestión de los archivos Org Mode, convertir todos los archivos Markdown de una carpeta a un único archivo Org Mode.
-
-1) Markdown a Org Mode.
-Ejecutamos este comando en la terminal.
-
-```
-pandoc -f markdown -t org -o nuevo_archivo.org archivo_a_convertir.md
-```
-
-2) Muchos archivos Markdown a un único Org Mode.
-
-Vamos a la carpeta donde están todos los **Markdown** que queremos convertir y **Llamamos a find vía Pandoc:**
-
-```
-find . -name \*.md -type f -exec pandoc  -f markdown -t org -o {}.org {} \;
-```
-
-Recordar verificar que la conversión se ha hecho correctamente.
-
 ---
 
 
