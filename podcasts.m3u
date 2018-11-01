@@ -1,6 +1,22 @@
 #EXTM3U
+#EXTINF:-1,Radiogeek - #Radiogeek - Apple ya no es lo que era, problemas en iOS 12.1 recién lanzado y watchOS 5.1 retirado
+http://www.ivoox.com/radiogeek-apple-ya-no-es-lo-que_mf_29762157_feed_1.mp3
+#EXTINF:-1,Podcrastinando - Unicorn ST 31 - Día del Podcast en español. Qué tengo en mi podcatcher
+http://feedproxy.google.com/~r/Podcrastinando/~5/jst7yPMy2C4/unicorn-st-31-dia-del-podcast-en_mf_29756774_feed_1.mp3
+#EXTINF:-1,Mosqueteroweb tecnologia, Linux, Chromebooks - Ciencia, Tecnología y Linux
+http://www.ivoox.com/ciencia-tecnologia-linux_mf_29750035_feed_1.mp3
+#EXTINF:-1,mixx.io, tecnología y negocios - Mad Macs
+https://cuonda.com/mixxio/mad-macs/1120776.mp3
+#EXTINF:-1,Podcrastinando - YTD 128 - HolyWins y Candidatura a Asociación Podcast
+http://feedproxy.google.com/~r/Podcrastinando/~5/P6RhsLNtE4o/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-9-31%2FYTD-128---HolyWins-y-Candidatu-5e228c82a7e78.m4a
+#EXTINF:-1,Podcast de Eduardo Collado - Podcast #180: HSRP, VRRP y GLBP
+https://media.blubrry.com/eduardocollado/www.eduardocollado.com/wp-content/uploads/2018/10/podcast-180-hsrp-vrrp-glbp.mp3
+#EXTINF:-1,Todas mis movidas - Muy buen martes
+https://anchor.fm/s/53009bc/podcast/play/1644456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-9-31%2FMuy-buen-martes-f4455da46df3b.m4a
 #EXTINF:-1,Radiogeek - #Radiogeek - Ya podemos probar el nuevo Skype en la web
 http://ar.ivoox.com/es/radiogeek-ya-podemos-probar-nuevo-skype_mf_29727730_feed_1.mp3
+#EXTINF:-1,Linux Express, de Podcast Linux. - #53 Linux Express
+https://gitlab.com/podcastlinux/podcastlinux.gitlab.io/raw/master/Linux-Express/53linuxexpress.mp3
 #EXTINF:-1,Code Time - Code Time (136): Desarrollo nativo vs desarrollo híbrido vs web apps
 http://www.ivoox.com/code-time-136-desarrollo-nativo-vs-desarrollo-hibrido_mf_29709497_feed_1.mp3
 #EXTINF:-1,Web Reactiva - WR 59: Vivir con el testing
