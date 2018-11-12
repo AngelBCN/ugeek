@@ -42,7 +42,7 @@ Para instalar desde Aur utilizaremos **yaourt**.
 ---
 
 ### Guía de comandos básicos de Pacman
-Fuente : [sobrebits.com](http://sobrebits.com/guia-de-comandos-basicos-de-pacman-en-archlinux-y-derivadas/)
+Fuente : [sobrebits.com](https://sobrebits.com/guia-de-comandos-basicos-de-pacman-en-archlinux-y-derivadas/)
 * Instalar paquetes  
 **pacman -S “paquete”** #Instala un paquete.  
 **pacman -Sy “paquete”** #Sincroniza repositorios e instala el paquete.  

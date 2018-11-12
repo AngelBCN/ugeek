@@ -16,7 +16,7 @@ Como una imagen vale mas que mil palabras, os dejo este vídeo de youtube donde 
 
 También os dejo estos dos Pdf's que os será de mucha ayuda para entender el Org Mode dentro de Emacs:
 
-- [Guía Org Mode traducida por http://www.davidam.com/](http://www.davidam.com/docu/orgguide.es.pdf)
+- [Guía Org Mode traducida por https://www.davidam.com/](http://www.davidam.com/docu/orgguide.es.pdf)
 - [Guía Org Mode Resumida](https://orgmode.org/orgcard.pdf)
 
 

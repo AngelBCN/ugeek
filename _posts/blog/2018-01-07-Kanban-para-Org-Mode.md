@@ -11,7 +11,7 @@ comments: true
 
 Kanban para Org Mode
 ====================
-![](http://telegra.ph/file/e257f19333ed6f9370d87.png)  
+![](https://telegra.ph/file/e257f19333ed6f9370d87.png)  
 10 Meses utilizando Org Mode + Emacs y cada vez va a ser mas difícil el
 dejar este método para gestionar mis tareas y tomar notas.
 
@@ -26,7 +26,7 @@ Primo, que compartió conmigo esta joya que ha encontrado.
 
 Christian Köstlin, inspirado en el artículo [Emacs, org-mode, Kanban,
 Pomodoro… Oh
-my…](http://agilesoc.com/2011/08/08/emacs-org-mode-kanban-pomodoro-oh-my/),
+my…](https://agilesoc.com/2011/08/08/emacs-org-mode-kanban-pomodoro-oh-my/),
 creo un paquete que no esta disponible en ningún repositorio pero que
 podemos instalar de modo manual, para obtener un Panel dinámico Kanban,
 dentro de nuestro Org Mode. Lo mejor de todo, es que no sólo podremos
@@ -69,7 +69,7 @@ Nuestro archivo .org, debe tener en la cabecera del documento, los estados de la
 ```  
 
 
-![](http://telegra.ph/file/d7fdb99dd61e1b2a0317a.png)  
+![](https://telegra.ph/file/d7fdb99dd61e1b2a0317a.png)  
 
 A diferencia del ejemplo de Christian Köstlin, sitúo mi panel Kanban
 al inicio, seguido de mis tareas, pudiendo ver el resumen del estado de

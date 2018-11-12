@@ -17,7 +17,7 @@ Ya aprendimos a instalar Syncthing, ahora toca hacer lo propio con la opción pr
 
 1- Añadimos los repositorios:   
 ```
-echo "deb http://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free" | sudo tee /etc/apt/sources.list.d/resilio-sync.list
+echo "deb https://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free" | sudo tee /etc/apt/sources.list.d/resilio-sync.list
 ```   
 
 2- Actualizamos el repositorio:
