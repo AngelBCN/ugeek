@@ -6,7 +6,6 @@ tags: [blog, docker, raspberry, portainer]
 categories: servidor
 comments: true
 ---
-![nextcloudpi](http://telegra.ph/file/ede6a2a8fbd0cbf0a9484.png)
 #### Publicado por Angel
 
 ## Descargar Imagen y Crear Contenedor NextcloudPi  
