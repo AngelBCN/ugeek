@@ -90,10 +90,10 @@ sass:
 
 # Use the following plug-ins
 gems:
-  #- jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  #- jekyll-seo-tag # Add metadata tags for search engines and social networks to better index and display your site's content. 
-  #- jekyll-paginate-v2
+ - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+ - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+ #- jekyll-seo-tag # Add metadata tags for search engines and social networks to better index and display your site's content. 
+ #- jekyll-paginate-v2
 
 # Exclude these files from your production _site
 exclude:
