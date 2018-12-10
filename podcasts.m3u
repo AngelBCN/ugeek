@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,EntreDevYOps Podcast - EDyO 43 - Intro a Kubernetes
+http://podcast.edyo.es/podcast/edyo-43.mp3
+#EXTINF:-1,Compilando Podcast - #38  Especial resumen LibreCon 2018
+http://media.blubrry.com/compilando/compilando.audio/wp-content/uploads/2018/12/podcast38.mp3
+#EXTINF:-1,Podcast WINTABLET.INFO - WINTABLET - El futuro de Windows en 2018 - Cap 100
+http://www.ivoox.com/wintablet-el-futuro-windows-2018_mf_30652803_feed_1.mp3
+#EXTINF:-1,DekNet - Altavoces "inteligentes" y la paranoia de la industria de la inseguridad
+http://api.spreaker.com/download/episode/16417145/altavoces_22inteligentes_22_y_paranoias_de_la_industria_de_la_inseguridad3.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Por un puĂąado de riales
 https://cuonda.com/mixxio/por-un-punado-de-riales/1121084.mp3
 #EXTINF:-1,DekNet - Entrevista con Eduardo Archanco: Medios de comunicación y noticias de seguridad
