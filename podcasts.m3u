@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,RadioDev - IniTab
+http://www.ivoox.com/initab_mf_30819047_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time (139): ¿Qué debo aprender para programar?
+https://www.ivoox.com/code-time-139-que-debo-aprender-para-programar_mf_30814682_feed_1.mp3
 #EXTINF:-1,Astronomía y algo más - Persiguiendo el sueño de Einstein, gravedad, cuerdas y teoría del todo [Ep.155]
 http://traffic.libsyn.com/astroetal/Ep155.mp3
 #EXTINF:-1,Programar es una mierda - Episodio 38 - WebRTC
@@ -105,6 +109,8 @@ http://www.ivoox.com/retroactivo-81-atary-lynx_mf_30551650_feed_1.mp3
 http://feedproxy.google.com/~r/Podcrastinando/~5/70ZXwaCyP7I/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-4%2FYTD-136---Actividades-extraesc-8fefa2c2c7d5f.m4a
 #EXTINF:-1,Code Time - Code Time (138): ¿Cómo elegir cursos de programación?
 http://www.ivoox.com/code-time-138-como-elegir-cursos-programacion_mf_30532337_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time (138): ¿Cómo elegir cursos de programación?
+https://www.ivoox.com/code-time-138-como-elegir-cursos-programacion_mf_30532337_feed_1.mp3
 #EXTINF:-1,Web Reactiva - WR 64: Joomla y su comunidad con Carlos Cámara
 http://api.spreaker.com/download/episode/16374829/webreactiva_podcast_64.mp3
 #EXTINF:-1,Mosqueteroweb tecnologia, Linux, Chromebooks - LunesconMosqueteroweb 026 Nutrición, sobrepeso y hábitos
@@ -161,6 +167,8 @@ https://www.ivoox.com/ep191-amartizaje-insight-entrevista-leonard-susskind-crisp
 http://www.ivoox.com/ep191-amartizaje-insight-entrevista-leonard-susskind-crispr-y_mf_30431348_feed_1.mp3
 #EXTINF:-1,Code Time - Code Time (137): ¿Es posible programar sin internet?
 http://www.ivoox.com/code-time-137-es-posible-programar-sin-internet_mf_30430257_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time (137): ¿Es posible programar sin internet?
+https://www.ivoox.com/code-time-137-es-posible-programar-sin-internet_mf_30430257_feed_1.mp3
 #EXTINF:-1,Todas mis movidas - El Arte de la Guerra
 https://anchor.fm/s/53009bc/podcast/play/1803860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-10-29%2FEl-Arte-de-la-Guerra-0fb41d4ecb219.m4a
 #EXTINF:-1,La Hora Maker - Surfeando tendencias en Internet
@@ -265,6 +273,8 @@ https://anchor.fm/s/106db04/podcast/play/1766508/https%3A%2F%2Fd3ctxlq1ktw2nl.cl
 https://cuonda.com/mixxio/bitcoin-570000-millones-evaporados-en-11-meses/1120846.mp3
 #EXTINF:-1,Code Time - Code Time Responde (4):Comenzar una carrera en Ciencias de la Computación
 http://www.ivoox.com/code-time-responde-4-comenzar-carrera-ciencias_mf_30237436_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time Responde (4):Comenzar una carrera en Ciencias de la Computación
+https://www.ivoox.com/code-time-responde-4-comenzar-carrera-ciencias_mf_30237436_feed_1.mp3
 #EXTINF:-1,NASeros Podcast - 64 - La LAN no es la WAN y 2 WAN no es una WAN grande
 http://www.ivoox.com/64-la-lan-no-es-wan_mf_30236437_feed_1.mp3
 #EXTINF:-1,NASeros Podcast - 64 - La LAN no es la WAN y 2 WAN no es una WAN grande
@@ -523,6 +533,8 @@ http://ar.ivoox.com/es/radiogeek-ya-podemos-probar-nuevo-skype_mf_29727730_feed_
 https://gitlab.com/podcastlinux/podcastlinux.gitlab.io/raw/master/Linux-Express/53linuxexpress.mp3
 #EXTINF:-1,Code Time - Code Time (136): Desarrollo nativo vs desarrollo híbrido vs web apps
 http://www.ivoox.com/code-time-136-desarrollo-nativo-vs-desarrollo-hibrido_mf_29709497_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time (136): Desarrollo nativo vs desarrollo híbrido vs web apps
+https://www.ivoox.com/code-time-136-desarrollo-nativo-vs-desarrollo-hibrido_mf_29709497_feed_1.mp3
 #EXTINF:-1,Web Reactiva - WR 59: Vivir con el testing
 http://api.spreaker.com/download/episode/16092229/webreactiva_podcast_59.mp3
 #EXTINF:-1,Todas mis movidas - Wall-E en casa
@@ -593,6 +605,8 @@ http://tracking.feedpress.it/link/15712/10639975/PL63.mp3
 https://archive.org/download/CrossoverMacjosanEduardoCollado/Crossover%20Macjosan%20eduardo%20collado.mp3
 #EXTINF:-1,Code Time - Code Time (135): ¿Qué es el desarrollo nativo, el desarrollo híbrido y las web apps?
 http://www.ivoox.com/code-time-135-que-es-desarrollo-nativo_mf_29554933_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time (135): ¿Qué es el desarrollo nativo, el desarrollo híbrido y las web apps?
+https://www.ivoox.com/code-time-135-que-es-desarrollo-nativo_mf_29554933_feed_1.mp3
 #EXTINF:-1,mixx.io, tecnología y negocios - Adiós al notch
 https://cuonda.com/mixxio/adios-al-notch/1120763.mp3
 #EXTINF:-1,Web Reactiva - WR 58: Despertar con Laravel
@@ -615,8 +629,12 @@ http://www.ivoox.com/fallos-comunes-al-iniciarse-gtd_mf_29492674_feed_1.mp3
 https://www.ivoox.com/fallos-comunes-al-iniciarse-gtd_mf_29492674_feed_1.mp3
 #EXTINF:-1,Code Time - Code Time (134): Lenguajes de programación Interpretados - versión corta
 http://www.ivoox.com/code-time-134-lenguajes-programacion-interpretados_mf_29485683_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time (134): Lenguajes de programación Interpretados - versión corta
+https://www.ivoox.com/code-time-134-lenguajes-programacion-interpretados_mf_29485683_feed_1.mp3
 #EXTINF:-1,Code Time - Code Time (134): Lenguajes de programación Interpretados
 http://www.ivoox.com/code-time-134-lenguajes-programacion-interpretados_mf_29485682_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time (134): Lenguajes de programación Interpretados
+https://www.ivoox.com/code-time-134-lenguajes-programacion-interpretados_mf_29485682_feed_1.mp3
 #EXTINF:-1,La Hora Maker - Arrancamos la segunda temporada con la entrevista a Bruno Laurencich de Chordata, un sistema de captura de movimiento libre
 http://traffic.libsyn.com/cesargarciasaez/SE02E01LHM.mp3
 #EXTINF:-1,La Hora Maker - LHM160 – Preguntas y proyectos Agosto 2018 – Final de temporada
@@ -671,6 +689,8 @@ http://www.ivoox.com/radiogeek-fue-lanzado-smartphone-palm_mf_29337121_feed_1.mp
 http://www.ivoox.com/lunesconmosqueteroweb-019-australiando_mf_29334905_feed_1.mp3
 #EXTINF:-1,Code Time - Code Time (133): Entrevista con Morgok857
 http://www.ivoox.com/code-time-133-entrevista-morgok857_mf_29334695_feed_1.mp3
+#EXTINF:-1,Code Time - Code Time (133): Entrevista con Morgok857
+https://www.ivoox.com/code-time-133-entrevista-morgok857_mf_29334695_feed_1.mp3
 #EXTINF:-1,Astronomía y algo más - Cómo la Vía Láctea llegó a ser como es [Ep.149]
 http://traffic.libsyn.com/astroetal/Ep149.mp3
 #EXTINF:-1,Podcrastinando - YTD 125 - Escapadas, terrazas, hangout y candidaturas
