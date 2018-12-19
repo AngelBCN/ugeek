@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,Code on the rocks - Especial de navidad.
+http://api.spreaker.com/download/episode/16513582/especial_de_navidad.mp3
+#EXTINF:-1,DekNet - Network Radio
+http://api.spreaker.com/download/episode/16513189/network_radio.mp3
+#EXTINF:-1,Web Reactiva - WR 66: Tenemos Git del bueno
+http://api.spreaker.com/download/episode/16505394/webreactiva_podcast_66.mp3
+#EXTINF:-1,NASeros Podcast - 67 - Sorteo red 10G, los SSD nos son discos y cuidado con la G y la B
+http://www.ivoox.com/67-sorteo-red-10g-ssd-nos_mf_30868830_feed_1.mp3
+#EXTINF:-1,Todas mis movidas - No siempre más es mejor
+https://anchor.fm/s/53009bc/podcast/play/1941078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-18%2FNo-siempre-m-s-es-mejor--496013a370b76.m4a
+#EXTINF:-1,La Tecnología para todos - Especial Navidad Maker
+http://api.spreaker.com/download/episode/16508889/navidad_01.mp3
 #EXTINF:-1,Radiogeek - #Radiogeek - Samsung y LG lanzaran smartphones 5g en el MWC2019
 http://www.ivoox.com/radiogeek-samsung-lg-lanzaran-smartphones-5g_mf_30859777_feed_1.mp3
 #EXTINF:-1,mixx.io, tecnologĂ­a y negocios - Otra filtraciĂłn de datos en Facebook (y van...)
