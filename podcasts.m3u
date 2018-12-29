@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,Radiogeek - #Radiogeek - Google, ¿bueno o el malo de la película?
+http://www.ivoox.com/radiogeek-google-bueno-o-malo-de_mf_31081058_feed_1.mp3
+#EXTINF:-1,DekNet - El corazón de Internet
+http://api.spreaker.com/download/episode/16581357/el_coraz_n_de_internet.mp3
+#EXTINF:-1,Todas mis movidas - Pasado, presente y futuro
+https://anchor.fm/s/53009bc/podcast/play/1996038/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-28%2FPasado--presente-y-futuro-efbc12723c128.m4a
+#EXTINF:-1,Radiogeek - #Radiogeek - Huawei no esta prohibido en USA por tener el sistema de cifrado inviolable!
+http://www.ivoox.com/radiogeek-huawei-no-esta-prohibido-usa_mf_31063619_feed_1.mp3
 #EXTINF:-1,Coffee Break: Señal y Ruido - Ep195: Marte; Saturno; CRISPR; ALMA; Luz Intracumular y Materia Oscura; Talcos Cancerígenos; Neurología de la Adicción
 http://www.ivoox.com/ep195-marte-saturno-crispr-alma-luz-intracumular-y_mf_31059776_feed_1.mp3
 #EXTINF:-1,Todas mis movidas - Control de Calidad
