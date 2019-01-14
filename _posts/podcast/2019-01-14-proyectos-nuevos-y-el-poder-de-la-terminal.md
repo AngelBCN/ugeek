@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Proyectos Nuevos y el Poder de la Terminal"
-date: 2019-01-14 16:56
+date: 2019-01-14 18:12
 author: Angel
 categories: podcast
 image: /img/ugeek.png
@@ -10,6 +10,13 @@ tags: [podcast]
 comments: true
 ---
 
+
+<audio controls>
+<source src='https://anchor.fm/s/106db04/podcast/play/2104087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-14%2F8334197-44100-2-c4850a50f905e.mp3'>
+Your browser does not support the audio element.
+</audio>
+
+ 
 En el podcast de hoy os explico el proyecto que he llevado a cabo estos días y el poder de la Terminal.
 
 Nuevo Blog: https://ugeek.github.io/blog/
