@@ -10,12 +10,12 @@ tags: [podcast]
 comments: true
 ---
 
-<p>En el podcast de hoy os explico el proyecto que he llevado a cabo estos días y el poder de la Terminal.</p>
-<p><br /></p>
-<p>Nuevo Blog: https://ugeek.github.io/blog/</p>
-<p>Repositorio del proyecto: https://github.com/uGeek/org-bash-blog</p>
-<p><br /></p>
-<p>https://ugeek.github.io/</p>
+En el podcast de hoy os explico el proyecto que he llevado a cabo estos días y el poder de la Terminal.
+
+Nuevo Blog: https://ugeek.github.io/blog/
+Repositorio del proyecto: https://github.com/uGeek/org-bash-blog
+
+https://ugeek.github.io/
 
 [https://ugeek.github.io/](https://ugeek.github.io/)
 
