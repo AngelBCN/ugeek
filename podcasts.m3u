@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Podcast dmanuelalonso - cap54 - Deepin vs. Ubuntu con Deepin
+http://api.spreaker.com/download/episode/16701471/cap54_deepin_vs_ubuntu_deepin_mf_31441524_feed_1.mp3
+#EXTINF:-1,Todas mis movidas - Mis propósitos para 2019
+https://anchor.fm/s/53009bc/podcast/play/2097604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-0-13%2FMis-prop-sitos-para-2019-0ac911ff3daef.m4a
+#EXTINF:-1,mixx.io, tecnologĂ­a y negocios - No es Internet para viejos
+https://cuonda.com/mixxio/no-es-internet-para-viejos/1121150.mp3
 #EXTINF:-1,DekNet - Consejos de seguridad domestica, para una minoría.
 http://api.spreaker.com/download/episode/16695676/consejos_de_seguridad_domestica_para_una_minoria.mp3
 #EXTINF:-1,República Web - App de alertas y estrategia de contenidos web [Backlog 2] #RW87
@@ -137,6 +143,8 @@ https://anchor.fm/s/53009bc/podcast/play/1965035/https%3A%2F%2Fd3ctxlq1ktw2nl.cl
 http://www.ivoox.com/radiogeek-nuevos-ipad-pro-flexibles_mf_30944715_feed_1.mp3
 #EXTINF:-1,DekNet - @O2es
 http://api.spreaker.com/download/episode/16534760/imported_1545334421.mp3
+#EXTINF:-1,RadioDev - Nginxconf y PuPHPet, generadores de configuraciones online
+http://www.ivoox.com/nginxconf-puphpet-generadores-configuraciones-online_mf_30939968_feed_1.mp3
 #EXTINF:-1,Coffee Break: Señal y Ruido - Ep194: AlphaFold, Nueva IA; Dinosaurios y Plumas; Registro Histórico de Actividad Solar; Detectores de Materia Oscura
 http://www.ivoox.com/ep194-alphafold-nueva-ia-dinosaurios-plumas-registro_mf_30939045_feed_1.mp3
 #EXTINF:-1,Coffee Break: Señal y Ruido - Ep194: AlphaFold, Nueva IA; Dinosaurios y Plumas; Registro Histórico de Actividad Solar; Detectores de Materia Oscura
